@@ -2,11 +2,11 @@
 
 Open-source skills for the operations side of B2B SaaS product marketing: proving PMM's impact, building sales content reps actually use, and running launches Product, Sales, and Marketing agree on. Three skills, 26 working pieces, tested on real launches. Works with Claude Code, the Claude app, OpenAI Codex, Cursor, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
-**Browse every skill and piece at [charlenetstrain.github.io/b2b-saas-product-marketing-ops-skills](https://charlenetstrain.github.io/b2b-saas-product-marketing-ops-skills/).**
+**Browse every skill and piece at [charlenetstrain.github.io/product-marketing-ops-skills](https://charlenetstrain.github.io/product-marketing-ops-skills/).**
 
 Built by [Charlene Strain](https://www.linkedin.com/in/charlene-strain). Sibling library: [Product Ops Skills](https://github.com/CharleneTStrain/product-ops-skills).
 
-**Contributions welcome.** Found a gap on a real launch, or have a skill to add? [Open a PR](#contributing) or [request a skill](https://github.com/CharleneTStrain/b2b-saas-product-marketing-ops-skills/issues/new?template=skill-request.yml).
+**Contributions welcome.** Found a gap on a real launch, or have a skill to add? [Open a PR](#contributing) or [request a skill](https://github.com/CharleneTStrain/product-marketing-ops-skills/issues/new?template=skill-request.yml).
 
 ## Contents
 
@@ -120,32 +120,32 @@ Use [`npx skills`](https://github.com/vercel-labs/skills) to install into whiche
 
 ```bash
 # Install all skills
-npx skills add CharleneTStrain/b2b-saas-product-marketing-ops-skills
+npx skills add CharleneTStrain/product-marketing-ops-skills
 
 # Install specific skills
-npx skills add CharleneTStrain/b2b-saas-product-marketing-ops-skills --skill pmm-ops-context shared-launch-agreement
+npx skills add CharleneTStrain/product-marketing-ops-skills --skill pmm-ops-context shared-launch-agreement
 
 # See what's available
-npx skills add CharleneTStrain/b2b-saas-product-marketing-ops-skills --list
+npx skills add CharleneTStrain/product-marketing-ops-skills --list
 ```
 
 If you run it from inside a Claude Code session, name the agent so the skills land where Claude Code reads them:
 
 ```bash
-npx skills add CharleneTStrain/b2b-saas-product-marketing-ops-skills -a claude-code
+npx skills add CharleneTStrain/product-marketing-ops-skills -a claude-code
 ```
 
 ### Option 2: Claude Code plugin
 
 ```
-/plugin marketplace add CharleneTStrain/b2b-saas-product-marketing-ops-skills
+/plugin marketplace add CharleneTStrain/product-marketing-ops-skills
 /plugin install pmm-ops-skills
 ```
 
 Outside an interactive session:
 
 ```bash
-claude plugin marketplace add CharleneTStrain/b2b-saas-product-marketing-ops-skills
+claude plugin marketplace add CharleneTStrain/product-marketing-ops-skills
 claude plugin install pmm-ops-skills@pmm-ops-skills
 ```
 
@@ -154,8 +154,8 @@ claude plugin install pmm-ops-skills@pmm-ops-skills
 Linking keeps your skills current every time you pull:
 
 ```bash
-git clone https://github.com/CharleneTStrain/b2b-saas-product-marketing-ops-skills.git
-cd b2b-saas-product-marketing-ops-skills
+git clone https://github.com/CharleneTStrain/product-marketing-ops-skills.git
+cd product-marketing-ops-skills
 mkdir -p ~/.claude/skills
 for skill in skills/*/; do
   ln -sfn "$PWD/${skill%/}" ~/.claude/skills/"$(basename "$skill")"

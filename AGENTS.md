@@ -7,13 +7,13 @@ Guidelines for AI agents working in this repository.
 **Product Marketing Ops Skills** — Agent Skills for B2B SaaS product marketing operations, following the [Agent Skills spec](https://agentskills.io). The repo is also a Claude Code plugin marketplace through `.claude-plugin/marketplace.json`. Sibling library: [Product Ops Skills](https://github.com/CharleneTStrain/product-ops-skills).
 
 - **Creator:** Charlene Strain
-- **Repo:** [CharleneTStrain/b2b-saas-product-marketing-ops-skills](https://github.com/CharleneTStrain/b2b-saas-product-marketing-ops-skills)
+- **Repo:** [CharleneTStrain/product-marketing-ops-skills](https://github.com/CharleneTStrain/product-marketing-ops-skills)
 - **License:** MIT
 
 ## Layout
 
 ```
-b2b-saas-product-marketing-ops-skills/
+product-marketing-ops-skills/
 ├── .claude-plugin/
 │   ├── marketplace.json        # plugin marketplace manifest
 │   └── plugin.json             # plugin manifest, points at ./skills

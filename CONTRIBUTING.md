@@ -4,7 +4,7 @@ Thanks for helping make these skills better. Fixes to existing skills, new piece
 
 ## Suggest a skill
 
-[Open a skill request](https://github.com/CharleneTStrain/b2b-saas-product-marketing-ops-skills/issues/new?template=skill-request.yml) with the job, what you'd hand the agent, and what you'd want back.
+[Open a skill request](https://github.com/CharleneTStrain/product-marketing-ops-skills/issues/new?template=skill-request.yml) with the job, what you'd hand the agent, and what you'd want back.
 
 ## How a skill is built here
 
