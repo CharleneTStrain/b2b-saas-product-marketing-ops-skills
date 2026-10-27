@@ -1,6 +1,6 @@
-# product-marketing-ops-skills
+# b2b-saas-product-marketing-ops-skills
 
-Repository for product marketing ops skills and notes.
+Repository for B2B SaaS product marketing ops skills and notes.
 
 ## Skills
 
