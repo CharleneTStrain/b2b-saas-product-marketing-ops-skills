@@ -74,11 +74,12 @@ Use a CS manager or support agent who handles the most tickets on the topic. Rea
 - Keep the rep's wording over marketing's unless it's inaccurate.
 - Credit the rep who rewrote it on the card or in the asset register.
 - Redo it when the card's main line changes.
+- **If a line can't be written yet** (it waits on a claims answer, a product decision, or pricing), don't rewrite a placeholder. List the line with what it's waiting on and who owns that, and run the rewrite once the line exists.
 
 ---
 
 ## Template
 
-| Line | Original | Rep's version | Changed because | Product check after rewrite |
-|---|---|---|---|---|
-| You say | | | | [PM name, date] |
+| Line | Original | Rep's version | Changed because | Waiting on | Product check after rewrite |
+|---|---|---|---|---|---|
+| You say | | | | — (or what the line waits on, and its owner) | [PM name, date] |

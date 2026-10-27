@@ -22,9 +22,13 @@ Pull everything reps might use from every place it lives: the content tool, shar
 
 **Start with the top 20,** not everything. Pick the 20 assets with the most use, or the ones tied to the highest-priority moments from the [rep needs interview](rep-needs-interview.md). Do the rest later, a batch at a time. Anything nobody can name an owner for goes straight to the retire review.
 
-| Asset | Where it lives (every place) | Copies | Last updated | Uses last 90 days |
-|---|---|---|---|---|
-| Competitor X battlecard | Drive folder, Highspot, old Slack pin | 3 | 8 months ago | 4 |
+| Asset | Owner | Where it lives (every place) | Copies | Last updated | Uses last 90 days |
+|---|---|---|---|---|---|
+| Competitor X battlecard | PMM: [name] | Drive folder, Highspot, old Slack pin | 3 | 8 months ago | 4 |
+
+**Include assets other teams own** if reps use them (a partner's guide, a Product FAQ, a Sales Ops playbook). Name the owning team in the Owner column. PMM can suggest where they live, but agree any move with that owner.
+
+**Include planned assets** from the [rep needs interview](rep-needs-interview.md) too, so their home is decided before they're built. Give them the same pre-live status they have in the [freshness cycle](freshness-cycle.md) register (Proposed, Not started, or In progress), and no click test until they're live.
 
 ### 2. Run the click test
 
@@ -78,6 +82,6 @@ Look in the help desk or ticketing tool, the CS platform, saved replies or macro
 
 ## Template
 
-| Asset | Every place it lives | Copies | Clicks | Seconds | Move to | Tags | Status |
-|---|---|---|---|---|---|---|---|
-| | | | | | | stage / competitor / segment | Moved / Keep / Retire review |
+| Asset | Owner | Every place it lives | Copies | Clicks | Seconds | Move to | Tags | Status |
+|---|---|---|---|---|---|---|---|---|
+| | PMM: [name] / [other team] | | | | | | stage / competitor / segment | Proposed / Not started / In progress (not live yet) · Moved / Keep / Retire review (live) |

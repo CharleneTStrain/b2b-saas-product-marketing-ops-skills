@@ -62,6 +62,17 @@ Agree the same split with the CS or support leader. Outcome numbers become setup
 
 ---
 
+## When there's no partner yet
+
+Sometimes no sales or CS leader is named for the content yet, such as a new feature whose support team isn't set. Don't skip the scorecard, and don't take on adoption yourself.
+
+1. Write the partner as `OPEN — owner: [your manager or the project lead], due: [date]`.
+2. Propose the numbers, labeled "Proposed: targets set with the partner once named." Don't set targets alone.
+3. Report the content's status in the monthly rollup, not adoption numbers, until the partner agrees the split.
+4. Once the partner is named, run steps 1 to 3 above with them before the first quarterly review.
+
+---
+
 ## Rules
 
 - Lead with the outcome number, not opens and sends.
@@ -75,7 +86,7 @@ Agree the same split with the CS or support leader. Outcome numbers become setup
 ## Template
 
 ```
-SCORECARD: [team or segment] · Sales (or CS) partner: [name]
+SCORECARD: [team or segment] · Sales (or CS) partner: [name, or "OPEN — owner: ___, due: ___"]
 
 SPLIT:
   PMM owns: content, accuracy, placement, product check

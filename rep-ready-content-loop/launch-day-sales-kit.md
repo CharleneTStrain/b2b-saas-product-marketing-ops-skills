@@ -11,6 +11,7 @@ For each launch, ship one bundle: a one-line pitch, three discovery questions, t
 - Tier 1 and Tier 2 launches that sales needs to talk about.
 - **Tier 3 or small updates:** a one-line Slack post with what changed and who to tell is enough.
 - **Self-serve or CS launches:** use the CS version below.
+- **Tier not set:** ask the launch owner. Until they answer, plan the full kit and say the tier is unconfirmed; it's easier to cut a kit than to build one in the last week.
 
 **This kit is for sales and CS only.** The website, email, in-app, and press parts of the launch live in the full launch plan. Link to it from the kit so reps can see what customers will see.
 
@@ -103,6 +104,39 @@ OWNER: ___ · PRODUCT CHECK: [PM name, date] · REP VOICE CHECK: [rep name, date
 ## CS and support version
 
 Swap the discovery questions for "who to tell" (which accounts benefit), the objections for the two most likely customer questions (as CS cards), and the pitch for one line a CS manager can put in a check-in email. Put it in the help desk or CS platform, and announce it in the CS channel.
+
+### Template: CS launch kit
+
+```
+LAUNCH: [name] · Tier: [1 / 2, or "not set: ask [launch owner]"] · Date: [date] (confirmed / tentative)
+WHERE IT LIVES: [one link in the help desk or CS platform]
+OWNERSHIP: PMM's / Proposed (not yet agreed as PMM's: [who decides, by when])
+
+CHECK-IN LINE (one line a CS manager can put in a check-in email):
+  "___"
+
+WHO TO TELL (which accounts benefit):
+  ___
+
+TOP TWO CUSTOMER QUESTIONS (as CS cards, from the 10-second card builder):
+  WHEN THE CUSTOMER ASKS: "___"
+  HERE'S HOW: "___"
+
+  WHEN THE CUSTOMER ASKS: "___"
+  HERE'S HOW: "___"
+
+PROOF POINT: ___ (source: ___), or a demo to use instead
+
+TRAINING RECORDING: [link] (__ minutes)
+
+WHAT'S NOT READY (internal only — "Don't promise ___"): ___
+
+FULL LAUNCH PLAN: [link]
+
+OWNER: ___ · PRODUCT CHECK: [PM name, date] · CS VOICE CHECK: [CS manager or agent, date]
+```
+
+**If the kit is only proposed,** fill in what you can from sources (who to tell, the likely questions, what's not ready) so the decision is easier, but don't record training or announce anything until it's agreed.
 
 ---
 
