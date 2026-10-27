@@ -44,6 +44,7 @@ If a piece doesn't replace something at your company, skip it.
 |---|---|---|
 | PM | About 2 hours: 20-minute kickoff, 15-minute product test in the sign-off, about an hour confirming claims, 15 minutes on open questions | About 45 minutes: kickoff and claim confirmation only |
 | Head of Product, Marketing, or Sales | About 1 hour: the sign-off session, or 15 minutes for the async version | None, unless something is escalated |
+| Top rep | 30 minutes: the real-deal and rep tests in the sign-off | None |
 | PMM | 8–12 hours: running the process, the claim list, the consistency check, and the timeline review | 3–4 hours |
 
 Most of the PM's time is confirming claims, which they'd otherwise answer one asset at a time.
@@ -100,7 +101,7 @@ Most of this skill needs leaders from all three teams to agree to it. If PMM can
 | Team | Owns |
 |---|---|
 | Product | What the product does and doesn't do, the ship date, and confirming every product claim is true today |
-| Sales | Whether the story works in a real deal, and whether reps use it |
+| Sales | Whether the story works in a real deal, and whether reps use it. Signing off means "a rep would say this," not owning the launch results |
 | Marketing (PMM) | Running the process, writing the story, the claim source list, and the consistency check |
 | All three | The kickoff agreement and the positioning sign-off |
 
@@ -127,6 +128,7 @@ PMM runs the process; it doesn't decide alone. If PMM is the only team that has 
 - **Decisions get written down once,** with who made them. A decision only reopens when the facts change.
 - **Every open question has an owner and a date.**
 - **Fix gaps at the source,** not one asset at a time.
+- **When reps change an asset, ask why first.** Their edits are evidence of what works with buyers.
 - **Use the meetings you already have** before adding new ones.
 
 ---

@@ -9,7 +9,7 @@ Positioning that only marketing believes usually skipped this step. It was appro
 ## Who's in the room
 
 - **Product:** the PM for the launch, who knows what it does and doesn't do.
-- **Sales:** a sales leader, plus one top rep who sells to the audience.
+- **Sales:** a sales leader, plus one top rep who sells to the audience. The rep only joins Tests 1 and 2, 30 minutes at most, and leaves before the product test.
 - **Marketing:** PMM, who runs the session and writes the positioning.
 - **Optional:** a CS lead, if existing customers are part of the audience.
 
@@ -57,6 +57,13 @@ Anything that isn't a clear yes on all three gets reworded, narrowed, or cut.
 
 Each leader signs off by name, or says exactly what has to change first. Write down the changes, who makes them, and by when.
 
+**What signing off means for each leader:**
+- **Sales:** "A rep would say this to a buyer, and it fits real deals." It isn't a promise about win rates or revenue; those are tracked in the impact tracker.
+- **Product:** "Every claim is true today, for this audience."
+- **PMM:** "I own the story and will keep it current."
+
+Say this at the start of the session, so the sales leader knows what they're agreeing to.
+
 ---
 
 ## Async version (when leaders won't meet)
@@ -100,6 +107,8 @@ OPEN ITEMS (owner, due): ___
 ## Rules
 
 - **Test against real deals, not hypothetical buyers.**
+- **Keep the rep's time to 30 minutes.** Ask for them by name a week ahead, and give their manager the reason.
+- **Sales signs off on whether it works in a deal,** not on the results.
 - **If Sales wouldn't say it on a call, it isn't done.**
 - **Every product claim passes the product test,** or it doesn't ship.
 - **"Yes, if" counts as agreement** only once the "if" is done. Track it as an open item.
