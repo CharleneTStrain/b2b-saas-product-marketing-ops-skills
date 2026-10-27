@@ -16,9 +16,9 @@ Tag each lost deal with its real reason and its dollar value, then roll it up in
 
 ## Steps
 
-### 1. Set a short reason list
+### 1. Set a short reason list, and agree it with Sales
 
-Use eight to twelve reasons, grouped into a few buckets. Keep the list stable so quarters can be compared.
+Use eight to twelve reasons, grouped into a few buckets. Agree the list with sales leadership before tagging anything, so "sales process" reasons aren't a surprise later. Keep the list stable so quarters can be compared.
 
 | Bucket | Example reasons |
 |---|---|
@@ -31,6 +31,8 @@ Use eight to twelve reasons, grouped into a few buckets. Keep the list stable so
 Each loss gets one main reason and, if needed, one secondary reason. Add a "specifically" note with the detail, such as "missing integration: Snowflake."
 
 ### 2. Tag from real sources, not the dropdown
+
+You can't interview every lost buyer, and many won't talk. Each quarter, try to interview the buyers behind the 10 largest losses by value, and tag the rest from calls and notes.
 
 The CRM loss-reason dropdown is often wrong or picked in a hurry. Tag from, in order of preference:
 1. A win/loss interview with the buyer.
@@ -52,12 +54,18 @@ The CRM loss-reason dropdown is often wrong or picked in a hurry. Tag from, in o
 | Secondary reason | Price: packaging didn't fit |
 | Source | Buyer interview, Mar 20 |
 | Confidence | High (buyer said it) / Medium (calls and notes) / Low (dropdown only) |
+| Deciding factor? | Yes / Partly / No — would they have bought if this reason weren't there? |
+| Stage at loss | Proposal |
+
+**Check the deciding factor, especially for "missing feature."** It's the easiest reason to give because it blames no one in the room. In interviews, ask: "If we'd had [the feature], would you have chosen us?" From calls and notes, check whether the buyer raised it before or after other concerns. Tag it "Partly" or "No" if other reasons were driving the decision.
 
 ### 4. Roll it up each quarter
 
-Group by main reason and add up the value.
+Group by main reason and add up the value. Count only losses where the reason was the deciding factor ("Yes"), and list "Partly" separately.
 
-> **Losses, Q1:** $1.4M lost across 31 deals. Top reasons: missing scheduled exports ($410K, 9 deals, mostly against Competitor X); price too high for teams under 50 seats ($260K, 6 deals); no decision ($220K, 7 deals). Scheduled exports was also the secondary reason in 4 more deals worth $150K.
+**Add a weighted value next to the full value.** You weren't going to win every one of those deals. Multiply each deal's value by your usual win rate at the stage it was lost (for example, 20% for deals lost at discovery, 50% at proposal), then add them up. Report both: the full value shows the size of the problem, and the weighted value is a fairer estimate of what fixing it is worth.
+
+> **Losses, Q1:** $1.4M lost across 31 deals ($520K weighted by stage). Top deciding reasons: missing scheduled exports ($410K full, $180K weighted, 9 deals, mostly against Competitor X); price too high for teams under 50 seats ($260K full, $110K weighted, 6 deals); no decision ($220K full, $60K weighted, 7 deals). Scheduled exports was also a partial reason in 4 more deals worth $150K. 68% of the value was tagged from buyer interviews or calls.
 
 Send the product reasons to Product grouped like this, and the sales-process reasons to sales leadership.
 
@@ -68,7 +76,8 @@ Send the product reasons to Product grouped like this, and the sales-process rea
 - **Use at least five deals** before calling something a pattern. Below that, say "early signal."
 - **Note how confident each tag is,** and report how much of the total came from high-confidence sources.
 - **Tag wins too,** with the same list, so you can see what's working and not just what isn't.
-- **Don't let one big deal set the roadmap.** Report both the dollar value and the deal count.
+- **Don't let one big deal set the roadmap.** Report the full value, the weighted value, and the deal count together.
+- **Review sales-process tags with sales leadership** before reporting them, so they're agreed, not a surprise.
 - **Separate what PMM can fix** (message, content, positioning) **from what it can't** (product gaps, pricing, sales process), and say who owns each.
 - **Keep the reason list the same** across quarters. If you change it, note the change and re-tag the last quarter so the comparison holds.
 
@@ -76,16 +85,17 @@ Send the product reasons to Product grouped like this, and the sales-process rea
 
 ## Template
 
-| Deal | Closed | Value | Segment | Competitor | Main reason | Specifically | Secondary | Source | Confidence |
-|---|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | | High / Medium / Low |
+| Deal | Closed | Value | Stage at loss | Segment | Competitor | Main reason | Specifically | Deciding factor? | Secondary | Source | Confidence |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | Yes / Partly / No | | | High / Medium / Low |
 
 ```
-LOSSES, [QUARTER]: $[total] across [#] deals.
-Top reasons:
-  1. [Reason]: $[X], [#] deals, [competitor or segment pattern]
-  2. [Reason]: $[X], [#] deals
-  3. [Reason]: $[X], [#] deals
+LOSSES, [QUARTER]: $[total] across [#] deals ($[weighted] weighted by stage).
+Top deciding reasons:
+  1. [Reason]: $[X] full, $[X] weighted, [#] deals, [competitor or segment pattern]
+  2. [Reason]: $[X] full, $[X] weighted, [#] deals
+  3. [Reason]: $[X] full, $[X] weighted, [#] deals
+Partial reasons: [reason], $[X], [#] deals
 High-confidence share: [__]% of value
 Sent to Product: [reasons]  ·  Sent to Sales: [reasons]  ·  PMM is fixing: [reasons]
 ```

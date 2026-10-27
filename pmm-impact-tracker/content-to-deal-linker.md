@@ -24,7 +24,12 @@ Pull from your content tool or CRM:
 - Whether the buyer opened them, if your tool tracks it
 - The deal's stage when the asset was sent
 
-If your tool doesn't link sends to deals, use a CRM field reps fill in, or check a sample of 20 deals by hand.
+**If your tools can't link sends to deals,** start small:
+1. Check a sample of 20 recent deals by hand, using call notes, email threads, and the rep's memory.
+2. Add one CRM field, such as "Key assets used," that reps fill in at stage changes.
+3. Find out whether your content tool or CRM can link them automatically. Most sales content tools can, once they're connected to the CRM.
+
+The hand sample is enough to start; don't wait for perfect tracking.
 
 ### 2. Build a fair comparison
 
@@ -33,6 +38,8 @@ Compare deals that used the asset against deals that didn't, from the same:
 - **Period** (the same quarter)
 - **Situation** (for example, only deals where Competitor X was involved, for a Competitor X battlecard)
 - **Stage reached** (only deals that got far enough for the asset to be used)
+
+**Then run the same-rep check by default.** For reps who had deals both with and without the asset, compare their own results. If the gap holds within the same reps, it's much less likely to be just "better reps use more content." Report both numbers.
 
 ### 3. Compare the results
 
@@ -53,7 +60,7 @@ Then decide for each asset: keep, fix where it lives, rewrite, or retire.
 
 ## Rules
 
-- **Use at least 15 deals on each side** before reporting a difference. Below that, say "too few deals to tell yet."
+- **Use at least 15 deals on each side** before reporting a difference. Below that, say "too few deals to tell yet," and still decide keep, fix, or retire using usage and rep feedback from the [rep-ready content loop](../rep-ready-content-loop/SKILL.md). Every asset gets a decision, even without enough deals to compare.
 - **Always say it shows a link, not proof.** Stronger reps and better-fit deals tend to use more content.
 - **To get closer to proof,** check whether the gap holds within the same reps (their deals with and without the asset), or roll the asset out to one team first.
 - **Opened beats sent.** If your tool tracks opens, report both, and weight opens more.
@@ -76,6 +83,7 @@ COMPARED: [segment], [period], [situation], [stage reached]
 | Average days to close | | |
 
 RESULT: Deals that used [asset] won [X]% vs. [Y]% ([#] and [#] deals).
+SAME-REP CHECK: Within the same [#] reps, [X]% vs. [Y]%.
 CAVEAT: Shows a link, not proof. [Any other factor.]
 DECISION: Keep / fix placement / rewrite / retire
 ```

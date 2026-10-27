@@ -10,25 +10,29 @@ Most PMMs can't prove impact because nobody set the target up front. The impact 
 
 Fill in one plan per project. Aim for a first pass in 15 minutes. It's fine to leave fields open, as long as each open field has an owner and a date.
 
+**Required fields (marked ★):** Project, Motion, Main number, Starting point, Target, Early signs, and Check-in dates. The light version (Tier 2 work) uses only these and should take under 10 minutes. Everything else is optional for the light version and expected for the full version.
+
+**Where the main number comes from:** If your company or marketing plan already lists the metrics leadership tracks, pick the main number from that list. Only define a new metric when nothing on the list fits, and say why in "Why this matters." That way every team's plan adds up to the same company plan.
+
 | Field | What to write | Example |
 |---|---|---|
-| Project | The name and one line on what it is | New reporting dashboard launch |
-| Motion | Sales-led, self-serve, or mixed | Sales-led |
+| Project ★ | The name and one line on what it is | New reporting dashboard launch |
+| Motion ★ | Sales-led, self-serve, or mixed | Sales-led |
 | Why this matters | The company goal it supports | Company goal: grow mid-market revenue 25% this year |
 | The change we want | What should be different afterward, in one sentence | Mid-market buyers stop choosing Competitor X over us for reporting |
 | Who has to change | The people whose behavior should shift | Mid-market reps, buyers in active deals, existing customers |
-| Main number | One number that shows the change happened | Win rate against Competitor X in mid-market |
+| Main number ★ | One number that shows the change happened | Win rate against Competitor X in mid-market |
 | Who owns the main number | The team or person accountable for it | Head of mid-market sales |
 | Who sets the target | PMM with their manager, or another team (inherited) | PMM with manager |
-| Starting point | Where that number is today | 31% (last 2 quarters) |
-| Target | Where it should be, and by when | 40% by end of Q2 |
-| Early signs | 2–4 signs that fit your motion, including at least one usage sign (see below) | Reps use the "reporting in 5 minutes" line on calls; buyers ask for the dashboard demo; fewer "reporting gap" loss reasons; 30% of mid-market accounts open the dashboard within 60 days |
+| Starting point ★ | Where that number is today | 31% (last 2 quarters) |
+| Target ★ | Where it should be, and by when | 40% by end of Q2 |
+| Early signs ★ | 2–4 signs that fit your motion, including at least one usage sign (see below) | Reps use the "reporting in 5 minutes" line on calls; buyers ask for the dashboard demo; fewer "reporting gap" loss reasons; 30% of mid-market accounts open the dashboard within 60 days |
 | Can we measure it today? | Yes / partly / no, the fallback for now, and the date full tracking is ready | Partly: call and deal data is ready; dashboard usage event ships Feb 20, so until then use weekly active accounts |
 | Where the evidence lives | The exact tool for each sign | Gong for calls, Salesforce for deals and loss reasons, Highspot for asset sends, Pendo or Amplitude for usage |
 | Other things that could move the number | Holidays, partner launches, other teams' promotions, betas, pricing changes, competitor moves | Competitor X pricing change rumored for March; sales kickoff in February |
 | Comparison plan | How you'll tell whether PMM's work made the difference (see below, and the [shared-metric splitter](shared-metric-splitter.md)) | Roll out to the East region first; compare East to West |
 | Launch date | The date check-ins count from; mark it if it's tentative | Feb 1 (confirmed) |
-| Check-in dates | Days 30, 60, and 90, each moved to the nearest recurring manager meeting | Mar 3, Apr 1, May 5 (Tuesday 1:1s) |
+| Check-in dates ★ | Days 30, 60, and 90, each moved to the nearest recurring manager meeting | Mar 3, Apr 1, May 5 (Tuesday 1:1s) |
 | What PMM owns | Your part | The message, demo script, battlecard, and rep training |
 | What PMM doesn't own | Parts other teams own, so a shared number isn't claimed as PMM's | Pricing, the dashboard itself, rep hiring and quotas |
 
@@ -68,6 +72,17 @@ Then list every open field in the "What we need before we can agree" block at th
 - If a check-in falls near a holiday or a slow period, note it in "Other things that could move the number."
 - If a metric needs a longer window than the check-in (for example, a 30-day repeat rate can't finish by day 30), note what that check can't show yet.
 
+### When the plan changes
+
+Launch dates slip, scope changes, and targets get revised. When any of these change, add a line to the plan's change log rather than quietly editing the field:
+
+```
+CHANGE LOG:
+  [date] — [field] changed from [old] to [new]. Why: [reason]. Agreed by: [owner].
+```
+
+Only the owner of a field can agree to change it: your manager for PMM's targets, the number's owner for an inherited target, and Product for launch dates and scope. If the launch date moves, move the check-in dates with it.
+
 ---
 
 ## Rules
@@ -84,17 +99,19 @@ Then list every open field in the "What we need before we can agree" block at th
 ## Template
 
 ```
-PROJECT:
-MOTION: sales-led / self-serve / mixed
+★ = required (light version uses only these)
+
+PROJECT: ★
+MOTION: ★ sales-led / self-serve / mixed
 WHY THIS MATTERS (company goal):
 THE CHANGE WE WANT:
 WHO HAS TO CHANGE:
-MAIN NUMBER:
+MAIN NUMBER: ★
 WHO OWNS THE MAIN NUMBER:
 WHO SETS THE TARGET: PMM with manager / inherited from ___
-STARTING POINT:
-TARGET (and by when):
-EARLY SIGNS (2–4, including at least one usage sign):
+STARTING POINT: ★
+TARGET (and by when): ★
+EARLY SIGNS ★ (2–4, including at least one usage sign):
   1.
   2.
   3.
@@ -106,7 +123,7 @@ WHERE THE EVIDENCE LIVES:
 OTHER THINGS THAT COULD MOVE THE NUMBER:
 COMPARISON PLAN:
 LAUNCH DATE: ___ (confirmed / tentative)
-CHECK-IN DATES (nearest recurring meeting):
+CHECK-IN DATES ★ (nearest recurring meeting):
   Day 30: ___   Day 60: ___   Day 90: ___
   What each check can't show yet:
 WHAT PMM OWNS:
@@ -116,6 +133,9 @@ AGREED WITH (manager) ON (date):
 WHAT WE NEED BEFORE WE CAN AGREE:
   - [Field] — OPEN, owner: ___, due: ___
   - [Field] — OPEN, owner: ___, due: ___
+
+CHANGE LOG:
+  [date] — [field] changed from [old] to [new]. Why: ___. Agreed by: ___.
 ```
 
 ---

@@ -10,15 +10,26 @@ It answers "how do you know it's working?" before anyone asks.
 
 This goes to your manager, the CMO, or the CEO. Make it the standard PMM update at quarterly business reviews, so it becomes routine rather than a one-off.
 
+**Length limit:** under 300 words per project, with exactly three proof points. If it runs longer, cut detail, not proof.
+
+**Review before it goes up:** A sales or product leader who worked on the project reads the proof points and the "How sure we are" section before the readout is sent. Note their name at the bottom. This keeps it from reading as PMM grading its own work.
+
 1. **Why it mattered:** The company goal it supported.
 2. **What we set out to change:** One sentence, plus the target and whose target it is.
 3. **What happened:** The main number from start to now, whether you hit the target, and usage.
 4. **Proof:** Three movement log entries with links. For sales-led work, use one call, one deal, and one decision. For self-serve work, use one funnel change, one piece of user feedback, and one decision.
 5. **How sure we are:** The comparison you used, and how each outside factor named in the [impact plan](impact-plan.md) or logged in the movement log may have helped or hurt. Use the wording from the [shared-metric splitter](shared-metric-splitter.md).
-6. **What didn't work:** One honest miss and what you changed because of it.
+6. **What didn't work:** One honest miss and what you changed because of it. The miss can be a cross-team issue, such as a product gap, a slipped date, or a sales process problem, as long as it's written neutrally, states facts rather than blame, and was agreed with that team first.
 7. **What's next:** The next target, or what you're stopping.
 
-For more than one project, write one short block per project, then add a top line: "This quarter, PMM work changed [three things]."
+### Team-level version
+
+When several PMMs each have projects, the head of PMM sends one readout for the whole team instead of separate one-pagers:
+1. **Top line:** "This quarter, PMM work changed [three things]," picked from across the team's projects.
+2. **One block per project,** each following the seven parts above, each under 300 words.
+3. **Off-track projects** get their own short section, with the fix and the owner.
+
+Each PMM writes their own block; the head of PMM writes the top line and decides the order.
 
 ---
 
@@ -53,4 +64,5 @@ PROOF:
 HOW SURE WE ARE: [Comparison and result]. [Outside factors and their likely effect].
 MISS: [What didn't work] — [what we changed].
 NEXT: [Next target, or what we're stopping].
+REVIEWED BY: [sales or product leader], [date]
 ```

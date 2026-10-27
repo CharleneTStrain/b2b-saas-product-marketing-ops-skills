@@ -10,6 +10,10 @@ At each check, report adoption, pipeline touched, win rate against key competito
 
 On the first business day of each month, starting with the first month that has data, send leadership one short update covering every active project.
 
+**One shared file per team.** The head of PMM owns a single rollup file, and each PMM adds their own project lines to it by the last business day of the month. Everyone uses the same format, so leadership reads one update instead of several. Time it to land before the month's forecast or pipeline review.
+
+**Lead with status.** Mark every project **on track**, **behind**, or **off track**, and list off-track projects first, with the fix and who owns it.
+
 > **PMM impact, March (sales-led):** 4 projects live. PMM work was used in deals worth $1.2M in open pipeline. Deals that used it won 9 points more often than deals that didn't. On track: 3. Behind: 1 (pricing page, low usage; fix in progress).
 
 > **PMM impact, March (self-serve):** 3 projects live. Setup completion for users who saw the new onboarding rose from 42% to 51%; the comparison group held at 43%. On track: 2. Behind: 1 (upgrade page; tracking event ships Mar 18, so no data yet).
@@ -25,15 +29,21 @@ Sales-led: PMM work was used in deals worth $[X] in open pipeline.
   Deals that used it won [Y] points more often than deals that didn't.
 Self-serve: [funnel stage] for users who saw PMM's work moved from [A] to [B];
   the comparison group was at [C].
-On track: [#]. Behind: [#] ([project], [reason]; [fix]).
+On track: [#]. Behind: [#]. Off track: [#].
 
-- [Project]: main number [start → now], early signs [summary] — on track / behind
-- [Project]: ...
+OFF TRACK (first):
+- [Project]: [reason]; fix: [fix]; owner: [name]
+BEHIND:
+- [Project]: main number [start → now], early signs [summary]; fix: [fix]
+ON TRACK:
+- [Project]: main number [start → now], early signs [summary]
 ```
 
 ---
 
 ## Day 30, 60, and 90 checks
+
+**Early-sign status at weeks 2 and 6.** Before the formal checks, post a one-line status in the monthly rollup or team channel at week 2 and week 6: are the early signs moving, flat, or not measurable yet? This gives leadership a read inside the quarter, before the main number has had time to move.
 
 | | Day 30 | Day 60 | Day 90 |
 |---|---|---|---|
@@ -48,6 +58,8 @@ On track: [#]. Behind: [#] ([project], [reason]; [fix]).
 | What I'm changing | Retrain the West team, whose usage lags | None | Expand to enterprise |
 
 ### Day 30: Is the problem the product or the message?
+
+Run this diagnosis with the product manager, not alone. Look at the data together, and if you read it differently, record both views in the check table.
 
 | What you see | Likely cause | What to do |
 |---|---|---|

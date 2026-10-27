@@ -9,7 +9,7 @@ description: Prove product marketing impact. Set a target before a project start
 
 **When to use it:**
 - **Full version:** Tier 1 launches, messaging refreshes, pricing or packaging changes, and research or enablement programs that should change what Sales says, what buyers do, or what users do in the product.
-- **Light version:** Tier 2 work. Do the impact plan and the day-90 check only.
+- **Light version:** Tier 2 work. Fill in only the impact plan's required fields (under 10 minutes) and do the day-90 check.
 - **Skip it:** Small updates that don't change what anyone says or does.
 
 If your team has its own rules for sources or claims, use them alongside this skill.

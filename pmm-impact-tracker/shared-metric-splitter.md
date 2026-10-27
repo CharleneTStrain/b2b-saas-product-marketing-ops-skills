@@ -49,7 +49,25 @@ Choose it in the impact plan, before launch. A comparison picked after seeing th
 | With vs. without | "Deals that used the battlecard won 46% vs. 29% for deals that didn't. This shows a link, not proof." | "The battlecard won $1.1M." |
 | Before vs. after | "Win rate rose from 31% to 41% after launch. Competitor X's price increase in the same period likely helped." | "PMM's launch raised win rate 10 points." |
 
-### 4. Name the other factors
+### 4. Say what PMM can claim confidently
+
+Not claiming the whole number doesn't mean claiming nothing. PMM can always say these with confidence:
+- **What PMM shipped and when:** "We launched the new reporting message, battlecard, and training on Feb 1."
+- **What changed in behavior PMM directly influenced:** "Reps used the new line on 55% of calls, up from 3%." (from the [call language tracker](call-language-tracker.md))
+- **The comparison result, in the wording above.**
+- **Decisions that cited PMM work:** "Product moved scheduled exports up a quarter, citing our win/loss research."
+
+Bring these alongside the shared number, especially at budget time.
+
+### 5. Give a one-line board version
+
+Leaders often need one sentence for a board or executive summary. Use this shape:
+
+> "[Metric] rose from [A] to [B]; where we could compare, [group that got PMM's work] did [X] better than [group that didn't]."
+
+**Rolling up several projects:** "PMM work was part of [#] launches this quarter. In the [#] we could compare, the groups that got PMM's work did [range] better on their main numbers." Never add the separate gains together.
+
+### 6. Name the other factors
 
 Always add one line on what else may have moved the number, using the list from Step 1 and the "Outside factor" entries in the [movement log](movement-log.md).
 
@@ -59,7 +77,8 @@ Always add one line on what else may have moved the number, using the list from 
 
 - **Never claim the whole shared number** as PMM's.
 - **Never add up separate claims** from different teams or assets; they overlap.
-- **Show other teams the wording** before it goes to leadership. It's better to settle disagreements before the readout than during it.
+- **Show other teams the wording** before it goes to leadership, and give them 48 hours to reply. If no one replies, the wording stands. It's better to settle disagreements before the readout than during it.
+- **Keep holdouts small and time-limited,** usually 5–10% of users for no more than 30–60 days, and agree with Product before running one on a core flow like sign-up, setup, or checkout. A holdout means some users get the older experience, so Product should own that call.
 - **When the comparison is weak, say so.** A plainly stated before/after with its caveats builds more trust than an inflated claim.
 - **If there's no comparison at all,** report the early signs and movement log entries instead of a number.
 
