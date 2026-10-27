@@ -1,6 +1,6 @@
 ---
 name: rep-ready-content-loop
-description: Build sales content reps actually use — pick the deal moments costing the most, interview reps by topic, build 10-second rep-facing and buyer-facing cards with a rep voice check and a product accuracy check, place them inside the tools reps already use, and refresh, measure, and retire them on a set cadence with shared ownership by Sales. Use for battlecards, objection guides, talk tracks, demo scripts, one-pagers, case studies, ROI tools, pricing guides, and launch kits, or whenever reps aren't using what PMM builds.
+description: Build sales content reps actually use — pick the deal moments costing the most, interview reps by topic, build 10-second rep-facing and buyer-facing cards with a rep voice check and a product accuracy check, place them inside the tools reps already use, and refresh, measure, and retire them on a set cadence with shared ownership by Sales. Use for battlecards, objection guides, talk tracks, demo scripts, one-pagers, case studies, ROI tools, pricing guides, and launch kits, plus customer success and support enablement content, or whenever reps or CS aren't using what PMM builds.
 ---
 
 # Rep-Ready Content Loop
@@ -10,7 +10,8 @@ description: Build sales content reps actually use — pick the deal moments cos
 **When to use it:**
 - **Full version:** Battlecards, objection guides, talk tracks, demo scripts, one-pagers, pricing guides, case studies, ROI tools, and launch kits.
 - **Light version:** A small update to an existing asset. Do Steps 3 and 4 only.
-- **Skip it:** Content that isn't used in live deals, such as blog posts or awareness campaigns.
+- **CS and support content:** Customer enablement one-pagers, onboarding guides, renewal talk tracks, and support macros. See "Using it for CS and support content" below.
+- **Skip it:** Content that isn't used in a live conversation with a buyer or customer, such as blog posts or awareness campaigns.
 
 This skill works inside whatever tools you already have, such as your CRM, call recorder, Slack, or sales content tool. It sets what goes in them and how they're kept up to date; it doesn't replace them.
 
@@ -200,6 +201,21 @@ The asset itself should make its main point on the first screen or page, so a bu
 | | | | Content / Feature gap / Other owner | | |
 
 ---
+
+## Using it for CS and support content
+
+The same loop works for content CS managers and support teams use with existing customers: build it for a moment, put it where they work, then refresh and retire it. These are the differences:
+
+| Step | Sales version | CS and support version |
+|---|---|---|
+| 1. Pick what to fix first | Lost deals, by moment and dollar value | Churned or downgraded accounts, support ticket volume by topic, and failed setups or integrations |
+| 2. Ask | Reps, including a top performer and a new rep | CS managers and support agents, including one who handles the hardest accounts and one who's newer |
+| 3. Build | "When they say / You say" cards | "When the customer asks / Here's how" cards: the answer, the steps or link, and when to escalate. Buyer-facing cards become customer-facing guides |
+| 4. Place | CRM, call recorder, Slack | The help desk or ticketing tool, the CS platform, saved replies or macros, the help center |
+| 5. Check | Win rate in deals that used it | Ticket resolution time, repeat tickets on the same topic, setup completion, renewal or expansion in accounts that used it |
+| Partner | Sales leader | CS or support leader |
+
+The rest carries over unchanged: the product accuracy check, the refresh cadence, the 90-day retire rule, the stop rule, and closing the loop on every request.
 
 ## Shared ownership with Sales
 

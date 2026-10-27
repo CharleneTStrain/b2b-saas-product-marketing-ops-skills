@@ -27,14 +27,19 @@ Fill in one plan per project. Aim for a first pass in 15 minutes. It's fine to l
 | Starting point ★ | Where that number is today | 31% (last 2 quarters) |
 | Target ★ | Where it should be, and by when | 40% by end of Q2 |
 | Early signs ★ | 2–4 signs that fit your motion, including at least one usage sign (see below) | Reps use the "reporting in 5 minutes" line on calls; buyers ask for the dashboard demo; fewer "reporting gap" loss reasons; 30% of mid-market accounts open the dashboard within 60 days |
+| Early-sign targets | PMM's own target for each early sign, set with your manager. Required when the main target is inherited | Message on 50% of calls by day 60; 20 demo requests by day 90; "reporting gap" losses down to 1 per month; 30% of accounts using the dashboard by day 60 |
+| Key phrases | 3–5 exact phrases from the final messaging, and the old ones they replace. Fill in when the copy is final; the [call language tracker](call-language-tracker.md) starts from this list | "reporting in 5 minutes" (replaces "powerful reporting"); "no analyst needed" (replaces "easy to use") |
 | Can we measure it today? | Yes / partly / no, the fallback for now, and the date full tracking is ready | Partly: call and deal data is ready; dashboard usage event ships Feb 20, so until then use weekly active accounts |
-| Where the evidence lives | The exact tool for each sign | Gong for calls, Salesforce for deals and loss reasons, Highspot for asset sends, Pendo or Amplitude for usage |
+| Check weekly (2–3 sources) | The sources that matter most for this project, checked in the [movement log](movement-log.md) each week | Gong for calls, Salesforce for deals and loss reasons |
+| Check monthly | Every other source for the early signs | Highspot for asset sends, Pendo for usage, Slack questions from reps |
+| Evidence tools used | Which evidence tools this project uses, and which it skips and why (see the fit table in [SKILL.md](SKILL.md)) | Call language tracker, win/loss revenue tagger, content-to-deal linker; shared-metric splitter for win rate |
 | Other things that could move the number | Holidays, partner launches, other teams' promotions, betas, pricing changes, competitor moves | Competitor X pricing change rumored for March; sales kickoff in February |
 | Comparison plan | How you'll tell whether PMM's work made the difference (see below, and the [shared-metric splitter](shared-metric-splitter.md)) | Roll out to the East region first; compare East to West |
 | Launch date | The date check-ins count from; mark it if it's tentative | Feb 1 (confirmed) |
 | Check-in dates ★ | Days 30, 60, and 90, each moved to the nearest recurring manager meeting | Mar 3, Apr 1, May 5 (Tuesday 1:1s) |
 | What PMM owns | Your part | The message, demo script, battlecard, and rep training |
 | What PMM doesn't own | Parts other teams own, so a shared number isn't claimed as PMM's | Pricing, the dashboard itself, rep hiring and quotas |
+| Review partners | The people who check PMM's work, named before results come in: the product manager for the day-30 diagnosis, the sales or product leader who reviews the readout, and whoever checks the wording on shared numbers | Day-30: PM for reporting. Readout: mid-market sales manager. Shared-number wording: mid-market sales manager and Demand Gen lead |
 
 ### Early signs by motion
 
@@ -52,7 +57,7 @@ Fill in one plan per project. Aim for a first pass in 15 minutes. It's fine to l
 
 Sometimes another team owns the main number and sets the target, such as Product, Growth, a partner, or a leader. When that happens:
 - Record whose target it is and when it's due, and write "PMM adopts this target; it doesn't set it."
-- Set PMM's early-sign targets with your manager. Those are the targets PMM is accountable for.
+- Set PMM's early-sign targets with your manager, and write them in the "Early-sign targets" field. Those are the targets PMM is accountable for.
 - If the owner hasn't set a target yet, mark it open with them as the owner.
 
 ### Open fields
@@ -80,6 +85,8 @@ Launch dates slip, scope changes, and targets get revised. When any of these cha
 CHANGE LOG:
   [date] — [field] changed from [old] to [new]. Why: [reason]. Agreed by: [owner].
 ```
+
+The change log starts when your manager agrees the plan. Before that, edit the draft freely.
 
 Only the owner of a field can agree to change it: your manager for PMM's targets, the number's owner for an inherited target, and Product for launch dates and scope. If the launch date moves, move the check-in dates with it.
 
@@ -116,10 +123,20 @@ EARLY SIGNS ★ (2–4, including at least one usage sign):
   2.
   3.
   4.
+EARLY-SIGN TARGETS (PMM's, set with manager):
+  1. ___ by ___
+  2. ___ by ___
+  3. ___ by ___
+  4. ___ by ___
+KEY PHRASES (fill in when copy is final):
+  New: ___  (replaces: ___)
+  New: ___  (replaces: ___)
 CAN WE MEASURE IT TODAY? yes / partly / no
   Fallback until ready:
   Full tracking ready by:
-WHERE THE EVIDENCE LIVES:
+CHECK WEEKLY (2–3 sources):
+CHECK MONTHLY:
+EVIDENCE TOOLS USED: ___   SKIPPED (and why): ___
 OTHER THINGS THAT COULD MOVE THE NUMBER:
 COMPARISON PLAN:
 LAUNCH DATE: ___ (confirmed / tentative)
@@ -128,6 +145,10 @@ CHECK-IN DATES ★ (nearest recurring meeting):
   What each check can't show yet:
 WHAT PMM OWNS:
 WHAT PMM DOESN'T OWN:
+REVIEW PARTNERS:
+  Day-30 diagnosis (product manager):
+  Readout reviewer (sales or product leader):
+  Shared-number wording:
 AGREED WITH (manager) ON (date):
 
 WHAT WE NEED BEFORE WE CAN AGREE:
@@ -159,10 +180,21 @@ EARLY SIGNS:
   2. Starts the setup checklist
   3. Finishes setup within 3 days
   4. Uses the core feature again in week two (usage sign)
+EARLY-SIGN TARGETS (PMM's, set with manager):
+  1. 90% of new free users see the welcome screen by week 2
+  2. 60% start the checklist (from 45%)
+  3. 40% finish setup within 3 days (from 30%)
+  4. OPEN — set once Growth sets the main target, owner: PMM + manager, due: Jan 20
+KEY PHRASES: "set up in one sitting"; "your first report in 3 steps"
+  (used to search support tickets and survey answers)
 CAN WE MEASURE IT TODAY? partly
   Fallback until ready: count checklist starts from page views
   Full tracking ready by: setup-completed event ships Jan 20
-WHERE THE EVIDENCE LIVES: Product analytics, in-app survey, support tickets
+CHECK WEEKLY: Product analytics funnel, in-app survey
+CHECK MONTHLY: Support tickets, CS notes
+EVIDENCE TOOLS USED: Call language tracker (self-serve version, on support tickets),
+  shared-metric splitter. SKIPPED: win/loss tagger and content-to-deal linker,
+  since there are no deals
 OTHER THINGS THAT COULD MOVE THE NUMBER: Holiday slowdown late December;
   a pricing page test running in parallel
 COMPARISON PLAN: Feature-flag holdout: 10% of new free users keep the old onboarding
@@ -172,8 +204,13 @@ CHECK-IN DATES: Feb 4, Mar 4, Apr 8 (Tuesday 1:1s)
   latest sign-ups
 WHAT PMM OWNS: Welcome screen copy, checklist wording, the setup emails
 WHAT PMM DOESN'T OWN: The checklist's design and build, pricing, the free plan's limits
+REVIEW PARTNERS:
+  Day-30 diagnosis: onboarding product manager
+  Readout reviewer: Growth lead
+  Shared-number wording: Growth lead
 
 WHAT WE NEED BEFORE WE CAN AGREE:
   - Target — OPEN, owner: Growth lead, due: Jan 15
   - Launch date — tentative, owner: Product manager, due: Dec 20
+  - Early-sign target 4 — OPEN, owner: PMM + manager, due: Jan 20
 ```

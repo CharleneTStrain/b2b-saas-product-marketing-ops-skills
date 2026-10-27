@@ -37,6 +37,19 @@ These feed the loop with specific kinds of evidence. Use the ones that fit the p
 | Content-to-deal linker | Compares win rate and deal speed for deals that used an asset against deals that didn't | Monthly rollup, comparisons | [content-to-deal-linker.md](content-to-deal-linker.md) |
 | Shared-metric splitter | Records what each team contributed to a shared number and picks honest wording for PMM's part | Comparison plan, 30/60/90 checks, readout | [shared-metric-splitter.md](shared-metric-splitter.md) |
 
+## Which evidence tools fit
+
+Pick the tools in the impact plan's "Evidence tools used" field, and say why you're skipping the others.
+
+| Tool | Sales-led | Self-serve | Mixed |
+|---|---|---|---|
+| Call language tracker | Yes, on call recordings | Yes, on support tickets, chat, surveys, and reviews | Yes, both |
+| Win/loss revenue tagger | Yes, on lost deals | Only if you have cancellation, downgrade, or trial-loss data with reasons | Yes, for the sales-led part |
+| Content-to-deal linker | Yes, on asset sends in deals | As users who saw vs. didn't see a page, email, or in-app message | Yes, both |
+| Shared-metric splitter | Whenever another team touches the main number | Whenever another team touches the main number | Whenever another team touches the main number |
+
+**Quick test:** If the tool's input doesn't exist for this project (no calls, no lost deals with reasons, no way to tell who saw the content), skip it and write that down. Don't build tracking just to use a tool unless the impact plan says the number depends on it.
+
 ## Which file to open
 
 | If someone asks... | Open |

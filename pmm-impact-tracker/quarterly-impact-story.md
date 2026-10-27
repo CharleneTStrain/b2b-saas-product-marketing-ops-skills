@@ -12,7 +12,7 @@ This goes to your manager, the CMO, or the CEO. Make it the standard PMM update 
 
 **Length limit:** under 300 words per project, with exactly three proof points. If it runs longer, cut detail, not proof.
 
-**Review before it goes up:** A sales or product leader who worked on the project reads the proof points and the "How sure we are" section before the readout is sent. Note their name at the bottom. This keeps it from reading as PMM grading its own work.
+**Review before it goes up:** The readout reviewer named under "Review partners" in the [impact plan](impact-plan.md), a sales or product leader who worked on the project, reads the proof points and the "How sure we are" section before the readout is sent. Note their name at the bottom. This keeps it from reading as PMM grading its own work.
 
 1. **Why it mattered:** The company goal it supported.
 2. **What we set out to change:** One sentence, plus the target and whose target it is.

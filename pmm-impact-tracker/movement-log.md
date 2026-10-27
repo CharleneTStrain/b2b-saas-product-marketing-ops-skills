@@ -23,7 +23,7 @@ Add an entry whenever you see a sign. Spend five minutes a week, on the same day
 
 ## Where to look each week
 
-Don't check every source every week. In the [impact plan](impact-plan.md), choose the two or three sources that matter most for this project, and check those weekly. Check the rest once a month. The list below covers the options.
+Don't check every source every week. Check the two or three sources listed under "Check weekly" in the [impact plan](impact-plan.md), and the ones under "Check monthly" once a month. If the plan doesn't list them yet, pick them now and add them to the plan. The list below covers the options.
 
 - **Call recordings:** Search for 2–3 exact phrases from the new messaging. The [call language tracker](call-language-tracker.md) turns this into counts.
 - **CRM:** Check deals won or lost against the main competitor, and the reason given for each loss. The [win/loss revenue tagger](win-loss-revenue-tagger.md) turns these into real reasons with dollar values.

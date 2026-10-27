@@ -15,17 +15,14 @@ For numbers PMM shares with Sales, Growth, Demand Gen, or Product, write down wh
 
 ## Steps
 
-### 1. List who contributed what
+### 1. Start from the impact plan
 
-| Team | What they did | Example |
-|---|---|---|
-| PMM | Message, assets, training, launch plan | New reporting message, battlecard, rep training |
-| Sales | Selling, coaching, hiring | Two new mid-market reps; deal reviews |
-| Demand Gen | Campaigns, ads, events | Reporting webinar series |
-| Product | The feature, its quality, pricing | Dashboard launch; export fix |
-| Outside | Market, competitors, seasons | Competitor X raised prices |
+Who contributed what is already in the [impact plan](impact-plan.md), so don't write it again here; two copies drift apart. Use:
+- **"What PMM owns"** for PMM's part
+- **"What PMM doesn't own"** for other teams' parts
+- **"Other things that could move the number"** and the "Outside factor" entries in the [movement log](movement-log.md) for outside factors
 
-Write this down before results come in. It's the same list as "What PMM owns / doesn't own" and "Other things that could move the number" in the impact plan.
+If those fields are thin, update the plan (with a change log line if it's already agreed). This file only adds the comparison, the wording, and who checked it.
 
 ### 2. Pick the strongest comparison you can
 
@@ -77,7 +74,7 @@ Always add one line on what else may have moved the number, using the list from 
 
 - **Never claim the whole shared number** as PMM's.
 - **Never add up separate claims** from different teams or assets; they overlap.
-- **Show other teams the wording** before it goes to leadership, and give them 48 hours to reply. If no one replies, the wording stands. It's better to settle disagreements before the readout than during it.
+- **Show the wording to the people named under "Review partners" in the impact plan** before it goes to leadership, and give them 48 hours to reply. If no one replies, the wording stands. It's better to settle disagreements before the readout than during it.
 - **Keep holdouts small and time-limited,** usually 5–10% of users for no more than 30–60 days, and agree with Product before running one on a core flow like sign-up, setup, or checkout. A holdout means some users get the older experience, so Product should own that call.
 - **When the comparison is weak, say so.** A plainly stated before/after with its caveats builds more trust than an inflated claim.
 - **If there's no comparison at all,** report the early signs and movement log entries instead of a number.
@@ -88,13 +85,10 @@ Always add one line on what else may have moved the number, using the list from 
 
 ```
 NUMBER: [metric]
-WHO CONTRIBUTED:
-  PMM: [what]
-  [Team]: [what]
-  [Team]: [what]
-  Outside: [what]
+WHO CONTRIBUTED: see the impact plan (What PMM owns / doesn't own,
+  Other things that could move the number)
 COMPARISON: holdout / staggered rollout / with vs. without / before vs. after
 RESULT (wording): [sentence from the table above]
 OTHER FACTORS: [one line]
-CHECKED WITH: [other team leads], [date]
+CHECKED WITH: [review partners from the impact plan], [date]
 ```

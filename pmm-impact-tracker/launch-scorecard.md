@@ -12,6 +12,8 @@ On the first business day of each month, starting with the first month that has 
 
 **One shared file per team.** The head of PMM owns a single rollup file, and each PMM adds their own project lines to it by the last business day of the month. Everyone uses the same format, so leadership reads one update instead of several. Time it to land before the month's forecast or pipeline review.
 
+**If there's no team rollup file,** put the same lines in your regular written update to your manager, such as a weekly or monthly status note, using the format below.
+
 **Lead with status.** Mark every project **on track**, **behind**, or **off track**, and list off-track projects first, with the fix and who owns it.
 
 > **PMM impact, March (sales-led):** 4 projects live. PMM work was used in deals worth $1.2M in open pipeline. Deals that used it won 9 points more often than deals that didn't. On track: 3. Behind: 1 (pricing page, low usage; fix in progress).
@@ -43,7 +45,7 @@ ON TRACK:
 
 ## Day 30, 60, and 90 checks
 
-**Early-sign status at weeks 2 and 6.** Before the formal checks, post a one-line status in the monthly rollup or team channel at week 2 and week 6: are the early signs moving, flat, or not measurable yet? This gives leadership a read inside the quarter, before the main number has had time to move.
+**Early-sign status at weeks 2 and 6.** Before the formal checks, post a one-line status at week 2 and week 6: are the early signs moving, flat, or not measurable yet? This gives leadership a read inside the quarter, before the main number has had time to move. Like the check-ins, put it in the nearest recurring written update (for example, your weekly status note) rather than sending something new.
 
 | | Day 30 | Day 60 | Day 90 |
 |---|---|---|---|
@@ -59,7 +61,7 @@ ON TRACK:
 
 ### Day 30: Is the problem the product or the message?
 
-Run this diagnosis with the product manager, not alone. Look at the data together, and if you read it differently, record both views in the check table.
+Run this diagnosis with the product manager named under "Review partners" in the [impact plan](impact-plan.md), not alone. Look at the data together, and if you read it differently, record both views in the check table.
 
 | What you see | Likely cause | What to do |
 |---|---|---|

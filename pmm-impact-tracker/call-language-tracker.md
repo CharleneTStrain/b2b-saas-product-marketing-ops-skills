@@ -21,7 +21,7 @@ Search call recordings for the exact phrases from the messaging, and report how 
 
 ### 1. Pick the phrases
 
-Choose three to five exact phrases from the new messaging, plus the old phrases they replace.
+Start from the "Key phrases" field in the [impact plan](impact-plan.md), which is filled in when the copy is final. If it's empty, choose three to five exact phrases from the new messaging, plus the old phrases they replace, and add them to the plan so there's one list.
 
 | New phrase | Old phrase it replaces | Why it matters |
 |---|---|---|
