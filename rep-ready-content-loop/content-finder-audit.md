@@ -28,7 +28,7 @@ Pull everything reps might use from every place it lives: the content tool, shar
 
 **Include assets other teams own** if reps use them (a partner's guide, a Product FAQ, a Sales Ops playbook). Name the owning team in the Owner column. PMM can suggest where they live, but agree any move with that owner.
 
-**Include planned assets** from the [rep needs interview](rep-needs-interview.md) too, so their home is decided before they're built. Give them the same pre-live status they have in the [freshness cycle](freshness-cycle.md) register (Proposed, Not started, or In progress), and no click test until they're live.
+**Include planned assets** from the [rep needs interview](rep-needs-interview.md) too, so their home is decided before they're built. Give them the same pre-live status they have in the [freshness cycle](freshness-cycle.md) register (Proposed, Not started, In progress, Blocked, or On hold), and no click test until they're live.
 
 ### 2. Run the click test
 
@@ -84,4 +84,4 @@ Look in the help desk or ticketing tool, the CS platform, saved replies or macro
 
 | Asset | Owner | Every place it lives | Copies | Clicks | Seconds | Move to | Tags | Status |
 |---|---|---|---|---|---|---|---|---|
-| | PMM: [name] / [other team] | | | | | | stage / competitor / segment | Proposed / Not started / In progress (not live yet) · Moved / Keep / Retire review (live) |
+| | PMM: [name] / [other team] | | | | | | stage / competitor / segment | Proposed / Not started / In progress / Blocked (on: ___) / On hold (not live yet) · Moved / Keep / Retire review (live) |
