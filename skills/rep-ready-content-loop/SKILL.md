@@ -115,4 +115,4 @@ The rest carries over unchanged: the product accuracy check, the refresh cadence
 - **[Call language tracker](../pmm-impact-tracker/call-language-tracker.md)** checks whether reps use the "You say" lines.
 - **[Content-to-deal linker](../pmm-impact-tracker/content-to-deal-linker.md)** holds the full comparison steps this skill uses.
 - **Competitor tracker** triggers the weekly or two-day competitive refresh.
-- **Release notes** trigger the product-claim refresh.
+- **Release notes** trigger the product-claim refresh. [Release notes drafting](https://github.com/CharleneTStrain/product-ops-skills/tree/main/skills/release-notes-drafting), in the sibling Product Ops Skills library, writes them.
