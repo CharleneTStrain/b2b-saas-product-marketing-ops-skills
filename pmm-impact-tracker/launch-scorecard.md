@@ -19,6 +19,8 @@ On the first business day of each month, starting with the first month that has 
 - **Not measurable yet:** tracking isn't live or a gate hasn't cleared. Name the gate and its date.
 - **Waiting on scope:** PMM's role or the project's scope isn't agreed yet. Name who decides and when.
 
+**One line per project, even when it's partly measurable.** If part of a project has data and part doesn't (for example, clicks are tracked but completions aren't), give the project the status of the part with data, and add the rest on the same line: "not measurable yet: [part], gate, owner, date." Count the project once, under that status. Use the "Not measurable yet" section only when nothing in the project can be measured.
+
 **Keep only the motion line that fits.** If you have no sales-led projects, drop the sales-led line instead of writing "—," and the same for self-serve.
 
 > **PMM impact, March (sales-led):** 4 projects live. PMM work was used in deals worth $1.2M in open pipeline. Deals that used it won 9 points more often than deals that didn't. On track: 3. Behind: 1 (pricing page, low usage; fix in progress).
@@ -43,9 +45,11 @@ OFF TRACK (first):
 - [Project]: [reason]; fix: [fix]; owner: [name]
 BEHIND:
 - [Project]: main number [start → now], early signs [summary]; fix: [fix]
+  [; not measurable yet: [part], gate, owner, date]
 ON TRACK:
 - [Project]: main number [start → now], early signs [summary]
-NOT MEASURABLE YET / WAITING ON SCOPE:
+  [; not measurable yet: [part], gate, owner, date]
+NOT MEASURABLE YET / WAITING ON SCOPE (nothing in the project can be measured yet):
 - [Project]: [gate or scope question]; owner: [name]; expected: [date]
 ```
 

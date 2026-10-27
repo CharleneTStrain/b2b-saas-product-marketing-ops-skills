@@ -198,10 +198,12 @@ The asset itself should make its main point on the first screen or page, so a bu
 
 | Asset | Type | The moment | Where it lives | Owner | Sales partner | Product check | Last updated | Next review | Uses last 30 days | Win rate with / without | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| | Rep / Buyer | | | | | | | | | | Not started / Blocked (on: ___) / On hold / Live / Fix / Retire |
+| | Rep / Buyer | | | | | | | | | | Proposed / Not started / In progress (due: ___) / Blocked (on: ___) / On hold / Live / Fix / Retire |
 
 **Statuses:**
+- **Proposed:** suggested, but not yet agreed as PMM's to build. Name who decides and when. Don't start building until it's agreed.
 - **Not started:** agreed, not yet built.
+- **In progress (due: ___):** being built now. Give the due date.
 - **Blocked (on: ___):** can't move until something else happens, such as a claims answer or a product decision. Name what it's waiting on and who owns that.
 - **On hold:** paused on purpose. Note why and when to revisit.
 - **Live / Fix / Retire:** as above.
@@ -256,7 +258,15 @@ LAST UPDATED: Mar 4 · OWNER: [PMM name] · PRODUCT CHECK: [PM name], Mar 3
 
 | Asset | Type | The moment | Where it lives | Owner | CS or support partner | Product check | Last updated | Next review | Uses last 30 days | Measure with / without | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| | Agent-facing / Customer-facing | | | | | | | | | e.g. setup completion, repeat tickets | Not started / Blocked (on: ___) / On hold / Live / Fix / Retire |
+| | Agent-facing / Customer-facing | | | | | | | | | e.g. setup completion, repeat tickets | Proposed / Not started / In progress (due: ___) / Blocked (on: ___) / On hold / Live / Fix / Retire |
+
+Statuses mean the same as in the sales asset register above.
+
+### Template: CS request log
+
+| Date | Agent | What they asked for | Type | What we did | Told them on |
+|---|---|---|---|---|---|
+| | [CS manager or support agent] | | Content / Feature gap / Other owner | | |
 
 ## Shared ownership with Sales
 
