@@ -160,7 +160,7 @@ The asset itself should make its main point on the first screen or page, so a bu
 
 | Check | Where to look | What to do |
 |---|---|---|
-| Is it helping? | Win rate and deal speed in deals that used it, compared with deals that didn't | Report this first; feed it into the PMM impact tracker |
+| Is it helping? | Win rate and deal speed in deals that used it, compared with deals that didn't, using the [content-to-deal linker](../pmm-impact-tracker/content-to-deal-linker.md) | Report this first; feed it into the PMM impact tracker |
 | Is it being used? | Content tool opens and sends, CRM attachments, call searches for the "You say" lines | Low use: check where it lives before changing what it says |
 | Is it accurate? | Competitor sites, release notes, pricing changes, win/loss notes | Update it, get a new product check if claims changed, and change the "last updated" date |
 | What are reps saying? | The monthly feedback slot or async thread | Log each request, act on it, and tell reps what changed |
@@ -235,8 +235,9 @@ Then agree on two or three numbers both teams watch, such as the share of compet
 ## How it connects to other skills
 
 - **[PMM impact tracker](../pmm-impact-tracker/SKILL.md)** uses the with/without deal comparison and usage data as early signs and evidence.
-- **Win/loss revenue tagger** feeds Step 1 priorities, new "when they say" lines, and proof points.
-- **Call language tracker** checks whether reps use the "You say" lines.
+- **[Win/loss revenue tagger](../pmm-impact-tracker/win-loss-revenue-tagger.md)** feeds Step 1 priorities, new "when they say" lines, and proof points.
+- **[Call language tracker](../pmm-impact-tracker/call-language-tracker.md)** checks whether reps use the "You say" lines.
+- **[Content-to-deal linker](../pmm-impact-tracker/content-to-deal-linker.md)** runs the "Is it helping?" comparison in the monthly check.
 - **Competitor tracker** triggers the weekly or two-day competitive refresh.
 - **Release notes** trigger the product-claim refresh.
 - **Launch-day sales kit** is this loop applied to a launch: one card per moment, checked and placed in the rep's workflow on day one.
