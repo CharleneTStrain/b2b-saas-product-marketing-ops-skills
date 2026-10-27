@@ -10,7 +10,19 @@ Tag each lost deal with its real reason and its dollar value, then roll it up in
 
 - Every month, for deals closed-lost against your main competitors.
 - Before a positioning, pricing, or roadmap discussion where someone will ask "why are we losing?"
-- **Self-serve:** use the same steps on cancellations, downgrades, and trials that didn't convert, using exit surveys and support tickets as sources.
+- **Self-serve:** use the same steps on cancellations, downgrades, uninstalls, and trials that didn't convert, using exit surveys and support tickets as sources. See the mapping table below.
+- **No loss event yet** (a new integration with no uninstall tracking, or a free beta): skip this tool and write "Skipped: win/loss tagger. Reason: no loss event. Revisit when: [loss tracking ships / paid launch]." in the impact plan.
+
+### Self-serve mapping
+
+| Sales-led column | Self-serve version |
+|---|---|
+| Deal | Account, org, or user |
+| Value | Plan value lost (annual), or "—" for free plans |
+| Stage at loss | Funnel stage at loss: trial, setup, active, renewal |
+| Stage-weighted value | Weight by how often that stage normally converts or renews; skip for free plans |
+| Competitor | Where they went, if known (from the exit survey); otherwise "unknown" |
+| Source | Exit survey, cancellation reason, support tickets, usage before leaving |
 
 ---
 

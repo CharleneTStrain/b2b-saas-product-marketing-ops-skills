@@ -35,6 +35,12 @@ Don't start with a list of assets. Start with the deal moments that cost the mos
 
 **Rule:** If a moment isn't costing deals, it doesn't need new content yet.
 
+**Before there's data** (a pre-launch product, a new feature, or no win/loss history), rank by one of these instead:
+- The stuck points expected in the impact plan, such as the funnel stage or objection the team thinks will cause the most drop-off.
+- An order agreed with the sales or CS partner.
+
+Mark the ranking **"Proposed, no data yet,"** and re-rank at day 30 once real losses, tickets, or usage come in.
+
 ---
 
 ## Step 2: Ask reps (by topic, not per asset)
@@ -192,7 +198,13 @@ The asset itself should make its main point on the first screen or page, so a bu
 
 | Asset | Type | The moment | Where it lives | Owner | Sales partner | Product check | Last updated | Next review | Uses last 30 days | Win rate with / without | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| | Rep / Buyer | | | | | | | | | | Live / Fix / Retire |
+| | Rep / Buyer | | | | | | | | | | Not started / Blocked (on: ___) / On hold / Live / Fix / Retire |
+
+**Statuses:**
+- **Not started:** agreed, not yet built.
+- **Blocked (on: ___):** can't move until something else happens, such as a claims answer or a product decision. Name what it's waiting on and who owns that.
+- **On hold:** paused on purpose. Note why and when to revisit.
+- **Live / Fix / Retire:** as above.
 
 ### Template: rep request log
 
@@ -216,6 +228,35 @@ The same loop works for content CS managers and support teams use with existing 
 | Partner | Sales leader | CS or support leader |
 
 The rest carries over unchanged: the product accuracy check, the refresh cadence, the 90-day retire rule, the stop rule, and closing the loop on every request.
+
+### Template: CS and support card
+
+```
+WHEN THE CUSTOMER ASKS: [their real words]
+HERE'S HOW: [the answer, in one or two sentences, in a CS manager's voice]
+STEPS OR LINK: [numbered steps, or a link to the help article]
+ESCALATE WHEN: [the condition, and who to escalate to]
+LAST UPDATED: [date] · OWNER: [name] · PRODUCT CHECK: [PM name, date]
+```
+
+**Example:**
+
+```
+WHEN THE CUSTOMER ASKS: "Why isn't my data syncing from the integration?"
+HERE'S HOW: "Most sync issues come from a permission that wasn't granted during
+  setup. It takes about two minutes to fix."
+STEPS OR LINK: 1. Settings → Integrations → [App]. 2. Click "Reconnect."
+  3. Approve the "read data" permission. Help article: [link]
+ESCALATE WHEN: Reconnecting doesn't fix it within an hour, or the error says
+  "account locked." Escalate to Tier 2 support.
+LAST UPDATED: Mar 4 · OWNER: [PMM name] · PRODUCT CHECK: [PM name], Mar 3
+```
+
+### Template: CS asset register
+
+| Asset | Type | The moment | Where it lives | Owner | CS or support partner | Product check | Last updated | Next review | Uses last 30 days | Measure with / without | Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | Agent-facing / Customer-facing | | | | | | | | | e.g. setup completion, repeat tickets | Not started / Blocked (on: ___) / On hold / Live / Fix / Retire |
 
 ## Shared ownership with Sales
 

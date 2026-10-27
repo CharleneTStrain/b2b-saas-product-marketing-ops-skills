@@ -14,7 +14,12 @@ On the first business day of each month, starting with the first month that has 
 
 **If there's no team rollup file,** put the same lines in your regular written update to your manager, such as a weekly or monthly status note, using the format below.
 
-**Lead with status.** Mark every project **on track**, **behind**, or **off track**, and list off-track projects first, with the fix and who owns it.
+**Lead with status.** Mark every project with one of these, and list off-track projects first, with the fix and who owns it:
+- **On track / Behind / Off track:** for projects with data.
+- **Not measurable yet:** tracking isn't live or a gate hasn't cleared. Name the gate and its date.
+- **Waiting on scope:** PMM's role or the project's scope isn't agreed yet. Name who decides and when.
+
+**Keep only the motion line that fits.** If you have no sales-led projects, drop the sales-led line instead of writing "—," and the same for self-serve.
 
 > **PMM impact, March (sales-led):** 4 projects live. PMM work was used in deals worth $1.2M in open pipeline. Deals that used it won 9 points more often than deals that didn't. On track: 3. Behind: 1 (pricing page, low usage; fix in progress).
 
@@ -27,11 +32,12 @@ Then add one line per project with its main number and early signs, marked as on
 ```
 PMM IMPACT, [MONTH]:
 [#] projects live.
+(Keep only the lines for motions you have.)
 Sales-led: PMM work was used in deals worth $[X] in open pipeline.
   Deals that used it won [Y] points more often than deals that didn't.
 Self-serve: [funnel stage] for users who saw PMM's work moved from [A] to [B];
   the comparison group was at [C].
-On track: [#]. Behind: [#]. Off track: [#].
+On track: [#]. Behind: [#]. Off track: [#]. Not measurable yet: [#]. Waiting on scope: [#].
 
 OFF TRACK (first):
 - [Project]: [reason]; fix: [fix]; owner: [name]
@@ -39,6 +45,8 @@ BEHIND:
 - [Project]: main number [start → now], early signs [summary]; fix: [fix]
 ON TRACK:
 - [Project]: main number [start → now], early signs [summary]
+NOT MEASURABLE YET / WAITING ON SCOPE:
+- [Project]: [gate or scope question]; owner: [name]; expected: [date]
 ```
 
 ---
@@ -68,6 +76,7 @@ Run this diagnosis with the product manager named under "Review partners" in the
 | People hear the message and are interested, but don't use the feature | Product | Share the usage data with Product, and pause new marketing until it's fixed |
 | People who find the feature use it, but few find it (reps don't mention it, or users don't see it) | Message delivery | Retrain reps, move the asset into tools people already use, or move the in-product surface |
 | People see the message and aren't interested | Message | Go back to customer interviews and rewrite |
+| A gate outside PMM isn't cleared (tracking not live, launch slipped, approval pending) | The gate, not the message | Report the gate, its owner, and its new date from the impact plan's "Gates outside PMM" field. Don't judge the message until the gate clears |
 | Nothing moving anywhere | Too early, the wrong target, or tracking isn't working | Check the "Tracking change" entries in the [movement log](movement-log.md), then talk to your manager about whether to keep going |
 
 ### How to read the main number

@@ -16,7 +16,7 @@ Add an entry whenever you see a sign. Spend five minutes a week, on the same day
 |---|---|
 | Date | Feb 12 |
 | What happened | Rep on the Acme deal used the "reporting in 5 minutes" line, and the buyer asked for a second demo |
-| Type | Message used / Deal moved / Deal lost / Funnel moved / Product used / Product changed / Leader decision / Outside factor / Tracking change |
+| Type | Message used / Deal moved / Deal lost / Funnel moved / Product used / Product changed / Leader decision / Idea or suggestion / Gate update / Outside factor / Tracking change |
 | Source | Link to the Gong call |
 | Deal value (sales-led only) | $48K, or "—" for self-serve |
 | Linked to which early sign | Sign 1: reps using the message |
@@ -44,6 +44,8 @@ Don't check every source every week. Check the two or three sources listed under
 - For every lost deal, write down the real reason, not just the CRM dropdown choice, along with the dollar value.
 - When sharing loss data with Product, group it across many deals ("6 losses, $210K, same reason"). One big deal is a story, not a pattern.
 - Log outside factors when they happen, even if you named them in the [impact plan](impact-plan.md), so the timing is on record.
+- Log ideas or suggestions from other teams or customers (for example, a partner suggesting a new channel) with who suggested it, so good ideas aren't lost and credit stays with them.
+- Log gate updates when a gate from the impact plan clears or slips, with the new date.
 - Log tracking changes, such as a new event going live, a broken event, or a definition change, so later numbers aren't misread.
 - If two weeks go by with no entries, that's a finding in itself: either the work isn't landing or you aren't looking in the right places.
 

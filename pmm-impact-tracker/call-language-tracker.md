@@ -36,6 +36,8 @@ Start from the "Key phrases" field in the [impact plan](impact-plan.md), which i
 
 Count each phrase in calls from the 30 to 60 days before launch. Use the same call types you'll measure afterward, such as discovery and demo calls in the target segment.
 
+**New product or feature with no "before":** Skip the before count. Report the share of calls (or tickets) using each phrase after launch only, and track how it changes from check-in to check-in. Say plainly that there's no starting point to compare against.
+
 ### 3. Count after launch
 
 At each check-in, count again over the same length of time. Track three things separately:

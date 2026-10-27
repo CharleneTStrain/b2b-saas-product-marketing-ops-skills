@@ -41,14 +41,22 @@ These feed the loop with specific kinds of evidence. Use the ones that fit the p
 
 Pick the tools in the impact plan's "Evidence tools used" field, and say why you're skipping the others.
 
-| Tool | Sales-led | Self-serve | Mixed |
-|---|---|---|---|
-| Call language tracker | Yes, on call recordings | Yes, on support tickets, chat, surveys, and reviews | Yes, both |
-| Win/loss revenue tagger | Yes, on lost deals | Only if you have cancellation, downgrade, or trial-loss data with reasons | Yes, for the sales-led part |
-| Content-to-deal linker | Yes, on asset sends in deals | As users who saw vs. didn't see a page, email, or in-app message | Yes, both |
-| Shared-metric splitter | Whenever another team touches the main number | Whenever another team touches the main number | Whenever another team touches the main number |
+| Tool | Sales-led | Self-serve | Mixed | Before launch |
+|---|---|---|---|---|
+| Call language tracker | Yes, on call recordings | Yes, on support tickets, chat, surveys, and reviews | Yes, both | Set up the phrase list only; for a new product there's no "before" count |
+| Win/loss revenue tagger | Yes, on lost deals | Only if there's a loss event with reasons: cancellations, downgrades, uninstalls, or trials that didn't convert | Yes, for the sales-led part | Skip until something can be lost; a free beta usually has no loss event |
+| Content-to-deal linker | Yes, on asset sends in deals | As users or accounts who saw vs. didn't see a page, email, or in-app message | Yes, both | Skip until the content is live |
+| Shared-metric splitter | Whenever another team touches the main number | Whenever another team touches the main number | Whenever another team touches the main number | Pick the comparison in the impact plan now |
 
-**Quick test:** If the tool's input doesn't exist for this project (no calls, no lost deals with reasons, no way to tell who saw the content), skip it and write that down. Don't build tracking just to use a tool unless the impact plan says the number depends on it.
+**Quick test:** If the tool's input doesn't exist for this project yet (no calls, no loss event with reasons, no way to tell who saw the content), skip it. Don't build tracking just to use a tool unless the impact plan says the number depends on it.
+
+**Write every skip the same way,** in the impact plan's "Evidence tools used" field:
+
+```
+Skipped: [tool]. Reason: [why it doesn't fit yet]. Revisit when: [trigger, such as "uninstall event ships" or "day 30"].
+```
+
+Don't fill in a tool's template when you've skipped it; an empty table looks like missing work.
 
 ## Which file to open
 

@@ -50,6 +50,19 @@ Compare deals that used the asset against deals that didn't, from the same:
 | Average deal size | $52K | $49K |
 | Average days to close | 61 | 74 |
 
+### Self-serve and CS mapping
+
+The steps are the same; the rows change. Use this table to fill the template for self-serve or CS work:
+
+| Sales-led | Self-serve | CS or support |
+|---|---|---|
+| Deals | Users, orgs, or accounts | Customer accounts |
+| Asset sent in the deal | Saw the page, email, or in-app message | Received the guide, one-pager, or macro |
+| Win rate | Conversion at the funnel stage PMM's work targets (for example, setup completion) | Setup or integration completion, ticket resolved without escalation |
+| Average deal size | Plan or seat count, if it matters | Account size or tier |
+| Days to close | Days to the target stage | Days to resolution or to setup complete |
+| Same-rep check | None; use a holdout or partial rollout instead | Same CS manager or support agent, with vs. without the asset |
+
 ### 4. Report it
 
 > **Competitor X battlecard, Q1:** Mid-market deals against Competitor X that used the battlecard won 46% of the time, compared with 29% for those that didn't (24 and 31 deals). They also closed 13 days faster. This shows a link, not proof: stronger reps may be more likely to use it.
