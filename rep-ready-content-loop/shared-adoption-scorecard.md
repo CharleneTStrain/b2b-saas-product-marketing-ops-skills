@@ -39,7 +39,20 @@ Add one line to the monthly rollup in the impact tracker's [launch scorecard](..
 
 ### 5. Review quarterly, together
 
-PMM and the sales leader look at the numbers together for 30 minutes each quarter. Decide what to fix, move, or retire, and who's coaching which team. This keeps adoption from quietly becoming PMM's job again.
+PMM and the sales leader look at the numbers together for 30 minutes each quarter. Put it on an existing sales leadership meeting's agenda rather than booking a separate meeting. This keeps adoption from quietly becoming PMM's job again.
+
+**Agenda:**
+1. **The numbers,** outcome first.
+2. **If a target missed, diagnose together before blaming anyone.** Look at the [content finder audit](content-finder-audit.md) (can reps find it?) and the [field feedback loop](field-feedback-loop.md) (what are reps saying?) side by side. Decide whether it's a content, placement, or coaching problem.
+3. **Keep, fix, move, or retire,** using the [content-to-deal linker](content-to-deal-linker.md) decisions, with an owner for each.
+4. **Feature gaps:** the grouped feature-gap summary from the field feedback loop, sent to Product afterward.
+5. **Coaching:** which manager is coaching which team.
+
+### 6. Give leadership one line
+
+When several teams have scorecards, roll them up into one line for leadership: the outcome number across all assets, with usage behind it.
+
+> **Sales content, Q1:** Deals that used PMM's sales content won 41% vs. 30% for deals that didn't, across all segments. Usage: 64% of competitive deals had the right card opened (target 70%).
 
 ---
 
@@ -73,9 +86,13 @@ NUMBERS:
   2. Usage:   ___ — target ___ by ___
   3. Usage:   ___ — target ___ by ___
 
-QUARTERLY REVIEW: [date], [attendees]
+QUARTERLY REVIEW: [date], in [existing meeting], [attendees]
+  If a target missed — content, placement, or coaching? ___
   Fix: ___
   Move: ___
   Retire: ___
   Coaching: [team] — [manager]
+  Feature gaps sent to Product: ___
+
+LEADERSHIP LINE: Deals that used PMM's content won [X]% vs. [Y]%. Usage: ___.
 ```

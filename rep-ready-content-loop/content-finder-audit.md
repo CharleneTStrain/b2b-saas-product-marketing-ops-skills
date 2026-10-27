@@ -20,6 +20,8 @@ List every sales asset, where it lives, and how long it takes a rep to reach it 
 
 Pull everything reps might use from every place it lives: the content tool, shared drives, the CRM, Slack pins, the wiki, and old launch folders.
 
+**Start with the top 20,** not everything. Pick the 20 assets with the most use, or the ones tied to the highest-priority moments from the [rep needs interview](rep-needs-interview.md). Do the rest later, a batch at a time. Anything nobody can name an owner for goes straight to the retire review.
+
 | Asset | Where it lives (every place) | Copies | Last updated | Uses last 90 days |
 |---|---|---|---|---|
 | Competitor X battlecard | Drive folder, Highspot, old Slack pin | 3 | 8 months ago | 4 |
@@ -34,6 +36,8 @@ For the top 10 to 20 assets, ask a rep to find each one during a mock call while
 
 **Rule:** If it takes more than 30 seconds, move it.
 
+The 30 seconds is roughly how long a rep can stall a buyer on a live call before it gets awkward. Treat it as a starting point: once you've timed a few reps, adjust it for your team and note why.
+
 ### 3. Move it where reps already are
 
 In order of preference:
@@ -41,9 +45,11 @@ In order of preference:
 2. **One search away,** in Slack with a pinned message or a bot, or in your sales content tool tagged by deal stage and competitor.
 3. **One click from a bookmark,** as a single linked page, not a folder.
 
+**Agree tool moves with RevOps first.** Adding a CRM field, a call tool sidebar, or a deal-stage prompt usually needs RevOps or a sales tools admin. Ask early and agree a date. Until it's done, use the fallback: a pinned Slack post or a single bookmarked page with the asset, and say in the announcement that it's moving.
+
 ### 4. Clean up
 
-- Pick one home per asset and delete or redirect every other copy.
+- Pick one home per asset and redirect every other copy to it. Before removing an old copy, check whether it's linked from docs, the help center, or other assets; replace it with a link to the new home rather than deleting it outright.
 - Tag every asset by deal stage, competitor, and segment, using the words reps searched for in the [rep needs interview](rep-needs-interview.md).
 - Mark anything unused in 90 days for the retire review in the [freshness cycle](freshness-cycle.md).
 

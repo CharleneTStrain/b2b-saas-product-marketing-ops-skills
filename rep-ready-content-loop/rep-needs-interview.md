@@ -28,11 +28,19 @@ Don't start with a list of assets. Start with the deal moments that cost the mos
 
 Mark the ranking **"Proposed, no data yet,"** and re-rank at day 30 once real losses, tickets, or usage come in.
 
+**Leave one slot for what's coming.** Each quarter, reserve one priority for a moment that isn't costing deals yet but will soon, such as a new competitor, a pricing change, or a big launch. Otherwise the list only ever fixes last quarter's problems.
+
 ---
 
 ## Run the interviews (by topic, not per asset)
 
 Run one round of interviews per topic or competitor, and use it to build every card in that set. Talk to three or four reps for 20 minutes each, including at least one top performer and one newer rep. Top performers show what works; newer reps show what's confusing.
+
+**Book through the sales manager,** not cold. Ask the manager to pick the reps and protect the time, so it reads as part of the job, not a favor to marketing.
+
+**When reps can't give 20 minutes:**
+- **10-minute version:** ask questions 1, 2, 5, and 7 only.
+- **No interview at all:** pull the answers from three to five call recordings where the topic came up. You'll get the buyer's real words and what the rep said back; note that you couldn't ask what they searched for.
 
 **Questions to ask:**
 1. "Walk me through the last deal where [topic] came up. What happened?"
@@ -46,6 +54,10 @@ Run one round of interviews per topic or competitor, and use it to build every c
 9. "What do you use now that you trust? What have you stopped using, and why?"
 
 Write down the buyer's exact words and the rep's search terms. They become the "When they say" line on the card and the tags in the [content finder audit](content-finder-audit.md).
+
+**Cross-check what reps told you.** Three or four reps are a starting point, not the whole team. Before building, check their answers against call recordings and the win/loss data. If they disagree (for example, reps say pricing is the main objection, but losses say it's a missing integration), note it in the brief and go with the data.
+
+**Sort out feature wishes.** When a rep says "I wish the product did X," that's a feature gap, not a content need. Log it in the [field feedback loop](field-feedback-loop.md) as a feature gap, and keep the brief about what reps need to say or send.
 
 ---
 
@@ -82,6 +94,7 @@ Pick what to fix first from churned or downgraded accounts, support ticket volum
 - If reps already have something they trust for this moment, improve it instead of building a new one.
 - If no sales leader agrees it's needed, question whether to build it at all.
 - Interview once per topic, not once per asset.
+- Go with the data when interviews and the data disagree, and note it.
 
 ---
 

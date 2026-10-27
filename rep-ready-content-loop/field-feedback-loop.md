@@ -18,6 +18,8 @@ Hold a short monthly slot in a sales meeting, plus a Slack thread, where reps fl
 2. "What's on a card that's wrong or out of date?"
 3. "What worked that other reps should know about?"
 
+Ask them in that order (gaps first, then wrong things, then wins), so the thread doesn't turn into a list of complaints.
+
 ### 3. Log every request
 
 Use the request log below, the same day.
@@ -27,13 +29,19 @@ Use the request log below, the same day.
 | Request type | Where it goes |
 |---|---|
 | Content is missing, wrong, or hard to find | PMM fixes it |
-| Buyers keep asking for a feature we don't have | Log it, group it across deals with the dollar value ("5 deals, $180K, same gap"), and send it to Product monthly; one request alone isn't a pattern |
+| Buyers keep asking for a feature we don't have | Log it, group it across deals with the dollar value ("5 deals, $180K, same gap"), and send it monthly into Product's existing feedback tool or process, not a separate report; one request alone isn't a pattern |
 | A question about pricing, legal, or security terms | Route it to the owner of that area |
 | Something that worked | Share it with the team, and consider adding it to a card |
 
 ### 5. Close the loop
 
 At the next meeting or in the thread, tell reps what changed because of their requests: "You asked for X; it's now on the card." Name the rep when they're happy to be named.
+
+Summarize by theme ("Three of you flagged the pricing card as out of date; it's fixed") rather than answering every post one by one.
+
+### 6. Track it
+
+Each month, count the requests and how many you closed. If requests drop off, ask two or three reps why before assuming everything is fine.
 
 ---
 
@@ -46,7 +54,7 @@ Use a CS or support team meeting and channel. Swap "buyer" for "customer." Featu
 ## Rules
 
 - Close the loop on every request, even when the answer is no. Reps stop giving feedback when it disappears.
-- Fix wrong information within two business days.
+- Fix wrong information within two business days. If the full fix will take longer, add a same-day "known issue" note to the card saying what's wrong and what to say instead.
 - Don't send Product one-off feature requests; group them first.
 - If a month brings no requests, ask two reps directly. Silence usually means they've stopped using the content, not that it's perfect.
 

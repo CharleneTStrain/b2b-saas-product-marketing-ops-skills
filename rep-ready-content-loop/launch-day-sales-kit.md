@@ -12,6 +12,8 @@ For each launch, ship one bundle: a one-line pitch, three discovery questions, t
 - **Tier 3 or small updates:** a one-line Slack post with what changed and who to tell is enough.
 - **Self-serve or CS launches:** use the CS version below.
 
+**This kit is for sales and CS only.** The website, email, in-app, and press parts of the launch live in the full launch plan. Link to it from the kit so reps can see what customers will see.
+
 ---
 
 ## What goes in the kit
@@ -24,11 +26,17 @@ For each launch, ship one bundle: a one-line pitch, three discovery questions, t
 | One proof point | A number, beta result, or customer quote, with source | If there's no proof yet, say what to use instead, such as a demo |
 | 10-minute training recording | A walkthrough a rep can watch before their next call | Ten minutes or less, with a demo |
 | Who to talk to | Which accounts or segments to bring it up with first | A saved CRM list or filter, if possible |
-| What's not ready | What reps shouldn't promise yet | Agreed with Product |
+| What's not ready | What reps shouldn't promise yet, written as "Don't promise X" without future dates | Agreed with Product; internal only |
 
 ---
 
 ## Steps
+
+### Short notice (a week or less)
+
+If Product gives less than two weeks' notice, ship the core on launch day and the rest by day 7:
+- **Launch day:** the one-line pitch, the top objection, and "What's not ready."
+- **By day 7:** the discovery questions, the second objection, the proof point, and the training recording.
 
 ### 1. Two weeks before launch
 
@@ -50,7 +58,8 @@ For each launch, ship one bundle: a one-line pitch, three discovery questions, t
 
 ### 4. Days 7 and 30
 
-- **Day 7:** Ask in the [field feedback loop](field-feedback-loop.md) what buyers are asking that the kit doesn't answer. Update it.
+- **Next sales meeting:** A two-minute recap of the pitch and the top objection, so the training sticks.
+- **Day 7:** Ask in the [field feedback loop](field-feedback-loop.md) what buyers are asking that the kit doesn't answer, and ask two reps to say the pitch out loud. If they can't, simplify it. Update the kit.
 - **Day 30:** Check usage and the early signs in the impact tracker's [launch scorecard](../pmm-impact-tracker/launch-scorecard.md).
 
 ---
@@ -82,7 +91,9 @@ TRAINING RECORDING: [link] (__ minutes)
 
 WHO TO TALK TO FIRST: [segment or saved list]
 
-WHAT'S NOT READY (don't promise yet): ___
+WHAT'S NOT READY (internal only — "Don't promise ___"): ___
+
+FULL LAUNCH PLAN: [link]
 
 OWNER: ___ · PRODUCT CHECK: [PM name, date] · REP VOICE CHECK: [rep name, date]
 ```
@@ -100,5 +111,5 @@ Swap the discovery questions for "who to tell" (which accounts benefit), the obj
 - One kit, one link. No folders of separate PDFs.
 - Everything in the kit passes the rep voice check and the product accuracy check.
 - Ten minutes of training or less.
-- Say what's not ready, so reps don't overpromise.
+- Say what's not ready, so reps don't overpromise, and keep that section internal. Write "Don't promise X," never future dates.
 - The kit gets an owner and a review date like any other asset.

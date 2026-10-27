@@ -6,6 +6,10 @@ Turn any battlecard, one-pager, or objection guide into something a rep can scan
 
 Start from the brief in the [rep needs interview](rep-needs-interview.md).
 
+**Where the words come from:** Pull every "You say," "What to write," and "Here's how" line from your approved messaging map or positioning doc. If a card needs a claim that isn't in the messaging map, flag it for review before it ships, and add it to the map if it's approved, so cards in different tools don't drift from each other.
+
+**How long it should take:** Once the interview is done, aim for one to two hours per card, including checks. A card can ship with one proof point; add more as you find them.
+
 ---
 
 ## Rep-facing card (for content reps read)
@@ -16,6 +20,8 @@ YOU SAY: [one or two sentences, in a rep's voice]
 PROOF: [up to three facts, numbers, or customer examples, each with a source]
 ASK: [one question that moves the deal forward]
 DON'T SAY: [the line that backfires, if there is one]
+GO DEEPER: [link to the full reference, if there is one]
+INTERNAL ONLY (competitive cards)
 LAST UPDATED: [date] · OWNER: [name] · PRODUCT CHECK: [PM name, date]
 ```
 
@@ -29,6 +35,8 @@ PROOF: Acme's ops team cut weekly reporting from 4 hours to 20 minutes
   (Acme case study, 2026).
 ASK: "Who on your team builds reports today, and how long does it take them?"
 DON'T SAY: "Their dashboards are just pretty." Buyers hear it as dismissive.
+GO DEEPER: Competitor X full comparison (reporting section)
+INTERNAL ONLY
 LAST UPDATED: Feb 10 · OWNER: [PMM name] · PRODUCT CHECK: [PM name], Feb 9
 ```
 
@@ -95,8 +103,10 @@ LAST UPDATED: Mar 4 · OWNER: [PMM name] · PRODUCT CHECK: [PM name], Mar 3
 
 ## Rules
 
-- One screen, no scrolling. If it doesn't fit, it's two cards.
+- One screen, no scrolling. If it doesn't fit, it's two cards, or the detail goes behind the "Go deeper" link.
+- **Some topics need depth,** like security reviews or technical evaluations. The card is the first layer a rep sees mid-call; link the full reference from "Go deeper" for follow-up.
 - If a line doesn't change what the rep says or sends next, cut it.
 - Every proof point needs a source a rep can name if a buyer asks.
-- Include an honest "where they're stronger" line on competitive cards. Reps trust cards that admit a weakness.
+- Include an honest "where they're stronger" line on competitive cards, agreed with Product. Reps trust cards that admit a weakness.
+- Mark competitive cards **internal only,** and keep them out of anything reps send to buyers, so the honest lines don't reach competitors.
 - No card ships without both checks.

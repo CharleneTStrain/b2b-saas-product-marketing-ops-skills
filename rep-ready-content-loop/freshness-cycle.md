@@ -15,6 +15,10 @@ Give every asset an owner and a review date, refresh competitive content weekly 
 | Product claims | Within five business days of any release that changes them, triggered by release notes |
 | Everything else | Quarterly |
 
+**"Weekly" means checking for changes, not rewriting.** A weekly competitor check takes minutes: look at their site, pricing page, release notes, and news. Only rewrite a card when something actually moved.
+
+**Product claim trigger:** Ask each PM to flag claim-changing items in their release notes (for example, a "changes what sales can say" tag). One check of the release notes each week then tells you which cards to update.
+
 ---
 
 ## Monthly check (first business day of each month)
@@ -39,13 +43,15 @@ Give every asset an owner and a review date, refresh competitive content weekly 
 - **Fix:** live but needs an update.
 - **Retire:** archived.
 
+**In the monthly rollup,** report only three of these: **Live**, **In progress**, and **Blocked**. Keep all eight in the register for PMM's own tracking.
+
 ---
 
 ## Rules
 
 - **Every asset has an owner and a next review date.** No owner means it gets retired.
 - **Every card shows its "last updated" date,** so reps can see it's current.
-- **Retire anything unused for 90 days,** unless it's for a rare but important moment, like a security review. Archive it; don't leave it sitting there.
+- **Retire anything unused for 90 days,** unless it's for a rare but important moment, like a security review. Archive it, don't delete it, and keep the archive searchable for a year in case a rep needs it again.
 - **Low use usually means bad placement,** not bad content. Move it first, then rewrite.
 - **Stop rule:** If an asset still isn't used 60 days after being moved and rewritten, retire it, and stop building that type of asset for that moment until reps ask for it.
 - **When a competitor moves,** update the card within two days and post a one-line note where reps talk: what changed and what to say now.

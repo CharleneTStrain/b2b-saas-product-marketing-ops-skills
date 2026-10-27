@@ -20,6 +20,10 @@ Have a top rep rewrite the talk tracks in their own words before launch. AI and 
 
 Choose a top performer in the segment the card is for. If the card is for newer reps too, add one newer rep as a second reader.
 
+**Cards used across segments:** Enterprise and SMB reps often talk differently. Either do one rewrite per segment, or keep one version and note that reps can adjust the wording live, as long as the facts stay the same.
+
+**Keep it to 15 minutes per card.** Ask the sales leader to count it as part of the rep's role, and credit the rep publicly when the card ships.
+
 ### 2. Read it out loud
 
 Ask the rep to read each line out loud, as if to a buyer. Watch for where they stumble, pause, or change words without meaning to. Those are the lines to fix.
@@ -34,9 +38,18 @@ Ask the rep to read each line out loud, as if to a buyer. Watch for where they s
 
 Let the rep rewrite the line. Keep their wording unless it changes the meaning or makes a claim the product can't back up.
 
+**The rep can change the wording, but not:**
+- The claim itself
+- The proof point or its number
+- The main message from the messaging map
+
+If the rep thinks one of those is wrong, log it in the [field feedback loop](field-feedback-loop.md) instead of changing it on the card.
+
 ### 5. Recheck the facts
 
 After the rewrite, the product checker confirms every feature claim is still true. Rep rewrites are where overpromises tend to creep in.
+
+**This is a hard gate.** A card can't be marked Live in the asset register without the product checker's name and date from after the rewrite.
 
 ---
 
