@@ -17,6 +17,8 @@ Even with one claim list, assets drift. A rep edits the deck, someone updates th
 
 ## Steps
 
+**This checks claims, not brand voice.** It looks at what each asset says the product does, who it's for, and what it costs. Whether the assets sound like the brand stays with your brand or creative review.
+
 ### 1. Gather the assets (30 minutes)
 
 | Asset | Where to get it | Owner |

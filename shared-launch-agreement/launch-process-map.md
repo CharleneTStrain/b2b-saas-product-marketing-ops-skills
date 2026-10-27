@@ -62,6 +62,7 @@ Share the one-page map with the Product, Sales, and Marketing leaders. Each lead
 ```
 LAUNCH PROCESS · Last updated: [date] · Owner: [PMM name]
 SIGNED OFF BY: Product [name, date] · Sales [name, date] · Marketing [name, date]
+TARGET: Tier 1 launches in [__] weeks from kickoff (today: [__] weeks)
 
 TIMELINE (weeks from product kickoff):
   Week 0: Product kickoff + kickoff agreement

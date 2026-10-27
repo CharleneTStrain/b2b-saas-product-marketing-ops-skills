@@ -59,6 +59,18 @@ Each leader signs off by name, or says exactly what has to change first. Write d
 
 ---
 
+## Async version (when leaders won't meet)
+
+Use this when you can't get all three leaders in a room within a week. It takes each leader about 15 minutes.
+
+1. **Run the tests at the working level first.** Do the real-deal and rep tests with a sales manager and one rep, and the product test with the PM, in two short calls.
+2. **Send one page to the three leaders:** the final positioning, the deals tested, what changed from the draft and why, and any claims cut in the product test.
+3. **Ask for a reply by a set date,** usually three business days: "Yes," "Yes, if ___," or "No, because ___."
+4. **No reply by the date counts as yes.** Say that in the message, so silence doesn't stall the launch.
+5. **A "No" goes to the [tie-break rule](tie-break-rule.md).**
+
+---
+
 ## Template: sign-off record
 
 ```

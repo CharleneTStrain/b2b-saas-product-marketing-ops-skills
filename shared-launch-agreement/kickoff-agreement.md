@@ -16,7 +16,7 @@ Ask a PM: "What meeting happens every time, after design and before build?" If n
 
 PMM fills in what it can from the product spec, so the meeting confirms instead of starting from blank. Mark anything you guessed as "To confirm."
 
-### 3. Confirm it in the room (20 minutes)
+### 3. Confirm it in the room (20 minutes, the PM's main time ask)
 
 Walk through the page with the PM, a sales leader or senior rep, and PMM. Every field ends as **Agreed** or **Open**, with an owner and a date.
 
@@ -49,6 +49,7 @@ Post the agreement where the launch team works, and link it from the decision re
 ## Rules for the kickoff agreement
 
 - **"What it doesn't do yet" is required.** If Product can't list a single limit, ask again; there's always one.
+- **"What it doesn't do yet" is never a promise to build it.** It only tells reps what not to promise. Nothing on it goes to buyers, and nothing on it gets a date. Say this in the room, so PMs can list limits without negotiating the roadmap.
 - **One main claim.** If the room can't pick one, the audience isn't clear yet.
 - **Every open question gets an owner and a decide-by date** that falls before the positioning sign-off.
 - **Write it in plain words.** If a rep couldn't read it out loud to a buyer, rewrite it.

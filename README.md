@@ -49,6 +49,7 @@ Repository for B2B SaaS product marketing ops skills and notes.
 | [Decision record](shared-launch-agreement/decision-record.md) | Logs each launch decision with who made it and why, so nobody reopens it in week ten |
 | [Tie-break rule](shared-launch-agreement/tie-break-rule.md) | Who settles a disagreement between the three teams, on a four-day clock |
 | [Launch timeline review](shared-launch-agreement/launch-timeline-review.md) | Splits working time from waiting time after each launch and cuts the waits that cost the most |
+| [Business case](shared-launch-agreement/business-case.md) | Shows leadership what slow launches cost today, sets a target launch length, and asks for a trial of the minimum version |
 
 ## Install
 

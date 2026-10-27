@@ -39,9 +39,9 @@ For each step, ask: "How many of those days was someone actually working on it?"
 
 Don't fix everything at once. Pick the one or two waits that cost the most days, and change the [launch process map](launch-process-map.md) for the next launch.
 
-### 5. Track the trend
+### 5. Track the trend against the target
 
-Keep a running row per launch, so you can see whether the fixes are working.
+Keep a running row per launch, so you can see whether the fixes are working. Compare each launch with the target launch length agreed with leadership (see "The target" in the [skill overview](SKILL.md)), and update the [business case](business-case.md) with the result.
 
 ---
 
@@ -55,10 +55,12 @@ Keep a running row per launch, so you can see whether the fixes are working.
 
 ## Template: launch trend
 
-| Launch | Tier | Kickoff to launch (weeks) | Days waiting | Biggest wait | Fix made |
-|---|---|---|---|---|---|
-| Quick Reports | 1 | 14 | 52 | Waiting on product details | Added the kickoff agreement |
-| [next launch] | 1 | | | | |
+**Target:** Tier 1 in [__] weeks by [date] · Agreed with: [name]
+
+| Launch | Tier | Kickoff to launch (weeks) | Target (weeks) | Days waiting | Biggest wait | Fix made |
+|---|---|---|---|---|---|---|
+| Quick Reports | 1 | 14 | 9 | 52 | Waiting on product details | Added the kickoff agreement |
+| [next launch] | 1 | | 9 | | | |
 
 ---
 
@@ -69,3 +71,4 @@ Keep a running row per launch, so you can see whether the fixes are working.
 - **Don't add review rounds to fix a slow launch.** More reviewers almost always means more waiting.
 - **Run steps side by side** wherever one doesn't need the other's output.
 - **Share the trend with the three leaders each quarter,** so the fixes stay agreed.
+- **Measure every launch against the agreed target,** including the ones that missed it.

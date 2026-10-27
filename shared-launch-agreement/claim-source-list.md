@@ -42,9 +42,23 @@ Anyone writing the website, deck, demo script, email, or help docs copies claims
 
 When a release, price change, or competitor move changes a claim, update the row and list every asset that uses it, so each owner can fix theirs. Flag the change to the [freshness cycle](../rep-ready-content-loop/freshness-cycle.md) for sales cards.
 
+**Use the release notes PMs already write.** Don't ask PMs to recheck every claim after every release. Ask them to add one tag to release notes when something changes what sales or marketing can say (for example, "changes a claim"). PMM checks the tagged items each week and asks the PM about those claims only.
+
+### 6. Keep it maintained
+
+The list has one owner in PMM, named at the top. On the first business day of each month, the owner spends 30 minutes on it:
+- Recheck anything marked **To confirm** past its date, and chase or cut it.
+- Check any **Confirmed** claim older than six months with its product owner.
+- Make sure every **Changed** claim's assets were updated.
+- Retire claims no asset uses anymore.
+
+If nobody owns the list, it goes stale within a quarter and people stop trusting it.
+
 ---
 
 ## Template: claim source list
+
+**Owner:** [PMM name] · **Last monthly check:** [date]
 
 | Claim (approved wording) | Type | Proof | Source | Confirmed by | Date confirmed | Limits | Used in | Status |
 |---|---|---|---|---|---|---|---|---|
@@ -68,5 +82,6 @@ When a release, price change, or competitor move changes a claim, update the row
 - **Every number and comparison has a source** someone outside the company could check.
 - **Write limits next to the claim,** so nobody uses it for an audience it isn't true for.
 - **One list.** Not one per team, not one per launch. Launches add rows to the same list.
-- **Recheck product claims** within five business days of any release that changes them.
+- **Recheck product claims** within five business days of any release tagged as changing them.
+- **One named owner** for the whole list, with a monthly 30-minute check.
 - **"Used in" is required.** A claim you can't trace to its assets can't be updated.
