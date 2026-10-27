@@ -10,7 +10,8 @@ Even with one claim list, assets drift apart. Someone updates the website after 
 
 ## When to run it
 
-- **Day 30 after every Tier 1 launch.**
+- **Before launch, at the ready check** (about one week out), on the assets that already exist. Same gap log. Fixing a contradiction before buyers see it is far cheaper than after.
+- **Day 30 after every Tier 1 launch.** Hold it at the same check-in as the impact plan's day-30 check, if you have one, so it's one date, not two. If day 30 falls on a holiday or slow week, move it to the nearest working day before it.
 - **Day 30 after a Tier 2 launch,** on the two assets that matter most (usually the website and the deck).
 - **Quarterly,** across the core company story, even without a launch.
 - **Anytime** a buyer, rep, or customer says "the website says something different."

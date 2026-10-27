@@ -23,6 +23,8 @@ Use the [launch timeline review](launch-timeline-review.md) to rebuild each one:
 
 If a number doesn't exist yet, write "Not tracked" rather than guessing. One solid number is more convincing than four soft ones.
 
+**No history at all?** Make your next launch the baseline. Log its kickoff date, waits, and rework as they happen (see the [decision record](decision-record.md)), and write the business case after it ships, with that launch as "Today." Ask leadership for the trial on the launch after.
+
 ### 3. Set the target
 
 Agree one target with leadership: a launch length (for example, Tier 1 from 14 weeks to 9 within three launches) and what it's worth (the revenue that arrives earlier).

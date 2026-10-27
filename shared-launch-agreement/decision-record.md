@@ -20,12 +20,19 @@ Don't log every small wording choice. If changing it wouldn't change an asset, s
 
 ---
 
+## If you already keep a decision log
+
+Use it. Add a **"Reopen only if"** column if it doesn't have one; that's the column that stops decisions coming back.
+
+---
+
 ## Steps
 
 1. **Log it the same day it's decided,** in one line.
 2. **Link to where it was decided:** the kickoff agreement, sign-off record, a thread, or meeting notes.
 3. **Post it where the launch team works,** so people see it without searching.
-4. **When someone raises it again,** link the row. Only reopen it if the facts changed; then log the new decision as a new row and mark the old one "Replaced."
+4. **Log handoffs too:** one line when a handoff starts ("PMM waiting on pricing from Product") and one when it ends. These dates are what the [launch timeline review](launch-timeline-review.md) needs, and they can't be rebuilt accurately later.
+5. **When someone raises it again,** link the row. Only reopen it if the facts changed; then log the new decision as a new row and mark the old one "Replaced."
 
 ---
 
@@ -41,6 +48,9 @@ Don't log every small wording choice. If changing it wouldn't change an asset, s
 - **Final:** decided. Link it when it comes up again.
 - **Tentative (final by: ___):** decided for now, with a date it locks.
 - **Replaced (by #___):** the facts changed and a new decision was made.
+- **Conflicts with #___ (settled by: ___, on: ___):** two decisions can't both be true, such as a launch date and a planning decision that leaves the feature out. Name who settles it and when, and mark the losing row "Replaced" once it's settled.
+
+**When there's no single decider** (the source says something was "set with" or "confirmed by" someone), write the people in "Agreed by," leave "Decided by" as "Not named," and ask who decided if it matters.
 
 ---
 

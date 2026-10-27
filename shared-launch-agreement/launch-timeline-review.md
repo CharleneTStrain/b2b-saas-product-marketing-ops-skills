@@ -8,7 +8,7 @@ Launches stretch to 12–16 weeks mostly from waiting, not working: waiting on a
 
 ## When to run it
 
-- **Day 45 after every Tier 1 launch,** after the [consistency check](consistency-check.md).
+- **Day 45 after every Tier 1 launch,** after the [consistency check](consistency-check.md). If day 45 falls on a holiday or weekend, move it to the nearest working day before it.
 - **Once a quarter** for Tier 2 launches, reviewed together.
 - **Before you set up the launch process map,** on your last two or three launches, to see where time goes today.
 
@@ -19,6 +19,8 @@ Launches stretch to 12–16 weeks mostly from waiting, not working: waiting on a
 ### 1. Rebuild the timeline (30 minutes)
 
 Using the kickoff agreement, decision record, threads, and calendar, list every step from kickoff to launch day, with the date it started and the date it finished.
+
+**This only works if the dates were logged as they happened.** Log handoff starts and ends in the [decision record](decision-record.md) during the launch. If they weren't, estimate, mark the row "estimated," and log them properly next time.
 
 ### 2. Split working time from waiting time
 
@@ -34,6 +36,7 @@ For each step, ask: "How many of those days was someone actually working on it?"
 | Disagreement | Two teams couldn't agree | Use the tie-break rule's four-day clock |
 | Done one after another | Steps waited on each other when they didn't have to | Run them side by side |
 | Late scope change | What shipped changed after assets started | Agree "Reopen only if" at kickoff |
+| Keep | A step that went faster than usual | Write down why, and make it the default next time |
 
 ### 4. Pick one or two fixes
 

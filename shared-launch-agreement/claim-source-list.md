@@ -15,8 +15,20 @@ Anything a buyer could hold you to:
 - Who it's for ("built for mid-market ops teams")
 - Integrations, security, and compliance ("connects to Salesforce")
 - Pricing and what's included ("included in Pro and above")
+- In-app and product copy ("Your plan includes 3 automations," "Est. time saved"), since customers read it as a promise
 
 Taglines and brand lines aren't claims unless they promise something specific.
+
+---
+
+## If you already keep a claims list
+
+Use it; don't start a second one. Check it has these columns, and add any that are missing:
+- **Confirmed by** (a named product owner) and **Date confirmed.** A free-text "source" isn't the same thing.
+- **Limits.**
+- **Used in** (the live assets, not just the files that mention it).
+
+Map your existing statuses to the ones below, and note the mapping at the top of the list. If product capability details live in a separate facts list, either link each claim to its fact or move launch claims into the claims list, so there's one place to check before an asset ships.
 
 ---
 

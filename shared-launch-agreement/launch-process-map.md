@@ -40,7 +40,9 @@ Put every team's steps on one timeline, using weeks from the product kickoff. Ma
 | Price and packaging | [your pricing owner] | Product, Sales, PMM | Everyone else | Positioning sign-off |
 | Sales readiness | Sales leader | PMM | Everyone else | 1 week before launch |
 
-Adjust the names to your company. The point is that each decision has one decider, and everyone knows when it locks.
+Adjust the names to your company. The point is that each decision has one decider, and everyone knows when it locks. Read "Sales" as the Conversion seat (see "Who fills each seat" in [SKILL.md](SKILL.md)).
+
+**If another doc already covers this** (a project workplan, or a decision framework that names who decides and approves), link it instead of copying it, and use this map only for what that doc leaves out. **If a small cross-team group runs the launch** (a tiger team or squad), name the group's members against the three seats, so each decision still has one decider.
 
 ### 4. Define "ready" for each team
 

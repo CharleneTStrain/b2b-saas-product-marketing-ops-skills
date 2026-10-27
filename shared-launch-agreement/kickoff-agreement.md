@@ -31,7 +31,8 @@ Post the agreement where the launch team works, and link it from the decision re
 | Field | What to write | Example |
 |---|---|---|
 | Launch | The name and one line on what it is | New reporting dashboard |
-| Tier | 1, 2, or 3, and who set it | Tier 1 (PMM, agreed with Product) |
+| Seats | Who fills Product, Conversion, and Marketing (see "Who fills each seat" in [SKILL.md](SKILL.md)) | Product: [PM] · Conversion: [sales leader] · Marketing: [PMM] |
+| Tier | 1, 2, or 3, and who set it (see "Setting the tier" in [SKILL.md](SKILL.md)); if not set, "Planning as Tier 1 until [launch owner] confirms" | Tier 1 (PMM, agreed with Product) |
 | What it does | One or two sentences, in plain words | Builds a shareable report from your account data in about five minutes, with no setup |
 | Who it's for | The audience, as specifically as you can | Mid-market ops managers who build weekly reports by hand |
 | Problem it solves | What they struggle with today | Reports take half a day each week, and still don't match what leadership sees |
@@ -51,10 +52,16 @@ Post the agreement where the launch team works, and link it from the decision re
 - **"What it doesn't do yet" is required.** If Product can't list a single limit, ask again; there's always one.
 - **"What it doesn't do yet" is never a promise to build it.** It only tells reps what not to promise. Nothing on it goes to buyers, and nothing on it gets a date. Say this in the room, so PMs can list limits without negotiating the roadmap.
 - **One main claim.** If the room can't pick one, the audience isn't clear yet.
-- **Every open question gets an owner and a decide-by date** that falls before the positioning sign-off.
+- **Every open question gets an owner and a decide-by date** that falls before the positioning sign-off. If you already keep a register of open questions, list them there and link it here, rather than keeping two copies.
 - **Write it in plain words.** If a rep couldn't read it out loud to a buyer, rewrite it.
 - **Agreed means named.** "We discussed it" isn't agreement.
 - **If something changes,** update the page and log it in the [decision record](decision-record.md). Don't fork a second version.
+
+---
+
+## If the kickoff already happened
+
+Fill this page in from what's on file, mark every field "To confirm," and confirm it with the PM and the Conversion seat in the next existing meeting they're both in. See "Joining a launch already underway" in [SKILL.md](SKILL.md).
 
 ---
 

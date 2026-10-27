@@ -12,15 +12,19 @@ Disagreements aren't the problem. Disagreements with no way to end them are. Wit
 
 Get the Product, Sales, and Marketing leaders to agree on this when you set up the [launch process map](launch-process-map.md). Agreeing in advance, when nobody is arguing yet, is what makes it work later.
 
-### 2. Try to settle it at the working level first
+### 2. Get both positions written down
+
+If a question is open but nobody has taken a side yet, it isn't a disagreement. Ask each team to write its position in the template first; the clock starts when both are in. If it turns out to be a fact to confirm rather than a choice, send it to whoever owns that fact instead.
+
+### 3. Try to settle it at the working level
 
 The people closest to the work (the PM, a sales manager, and PMM) get two business days to agree. They write down both positions in the template below, so the leaders can decide quickly if it goes up.
 
-### 3. Escalate on a set clock
+### 4. Escalate on a set clock
 
 If it isn't settled in two business days, it goes to the tie-breaker. The tie-breaker decides within two more business days, using the written positions. No new meeting is needed unless the tie-breaker asks for one.
 
-### 4. Log the outcome
+### 5. Log the outcome
 
 Add the decision to the [decision record](decision-record.md) with the tie-breaker as decider. Everyone commits to it, including the side that didn't win.
 
@@ -38,6 +42,8 @@ Add the decision to the [decision record](decision-record.md) with the tie-break
 | The launch date versus what's in the launch, on a Tier 1 launch | CEO, or the exec all three report to | Ship on the date without a must-have feature, or move the date |
 
 Change the names to fit your company. Each type of disagreement gets one person.
+
+**If your company names a pair** (for example, two approvers on a decision framework), keep the pair, but write down what happens when they split: usually one of them has the final call for that type. Otherwise the tie just moves up a level.
 
 **What doesn't escalate:**
 - **Tier 2 and 3 disagreements** stop at PMM or the PM, depending on the type. They don't go to a department head.

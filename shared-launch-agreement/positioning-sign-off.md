@@ -9,7 +9,7 @@ Positioning that only marketing believes usually skipped this step. It was appro
 ## Who's in the room
 
 - **Product:** the PM for the launch, who knows what it does and doesn't do.
-- **Sales:** a sales leader, plus one top rep who sells to the audience. The rep only joins Tests 1 and 2, 30 minutes at most, and leaves before the product test.
+- **Sales (the Conversion seat):** a sales leader, plus one top rep who sells to the audience. For self-serve or CS-led launches, the Conversion seat's owner, plus one person who talks to these customers (a growth lead, CS manager, or support agent). The rep only joins Tests 1 and 2, 30 minutes at most, and leaves before the product test.
 - **Marketing:** PMM, who runs the session and writes the positioning.
 - **Optional:** a CS lead, if existing customers are part of the audience.
 
@@ -66,6 +66,12 @@ Say this at the start of the session, so the sales leader knows what they're agr
 
 ---
 
+## When there are no deals to test
+
+For a new self-serve product or a beta, use the closest real thing instead: beta accounts, the signup or purchase flow, onboarding emails, and in-app messages. For each, ask: "Would this positioning change what the customer does at this step?" Note in the record which ones you used.
+
+---
+
 ## Async version (when leaders won't meet)
 
 Use this when you can't get all three leaders in a room within a week. It takes each leader about 15 minutes.
@@ -95,9 +101,9 @@ FINAL POSITIONING:
 CHANGES FROM THE DRAFT: ___
 
 SIGNED OFF:
-  Product: [name] — Yes / Yes, if ___ / No, because ___
-  Sales:   [name] — Yes / Yes, if ___ / No, because ___
-  PMM:     [name] — Yes
+  Product:    [name] — Yes / Yes, if ___ / No, because ___
+  Conversion: [name, role] — Yes / Yes, if ___ / No, because ___
+  PMM:        [name] — Yes (or "Proposed" if PMM's role isn't agreed yet)
 
 OPEN ITEMS (owner, due): ___
 ```

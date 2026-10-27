@@ -13,11 +13,64 @@ description: Get Product, Sales, and Marketing to agree on one launch story befo
 - **Minimum version:** If you can only do one thing, do the kickoff agreement and the claim source list. They prevent most of the drift on their own, and everything else builds on them. Start here if your team is new to this, then add pieces as launches show where you're losing time.
 - **Skip it:** Tier 3 updates and bug fixes. Add any changed claim to the claim source list and move on.
 
+**Starting mid-launch?** See "Joining a launch already underway" below. Most launches you'll first use this on are already past the kickoff.
+
 **Run the launch process map once,** then reuse it for every launch. Revisit it after the timeline review, or when the team structure changes.
 
 This skill works inside the meetings and tools you already have. It doesn't add a new meeting where an existing one can carry the work: the kickoff agreement goes in the product kickoff, the sign-off goes in an existing leadership slot, and the claim list lives wherever your team already keeps shared docs.
 
+**The same goes for lists and logs.** If you already keep a claims list, a decision log, or a register of open questions, use it and add the columns this skill needs. Don't start a second copy; two copies drift apart.
+
 If your team has its own rules for sources or claims, use them alongside this skill.
+
+---
+
+## Setting the tier
+
+Tier decides almost everything else: full or light version, who breaks ties, and whether Sales needs a kit. Set it at the kickoff.
+
+| Tier | Usually means | Example |
+|---|---|---|
+| 1 | Changes what the company sells or how it's sold: a new product, a new paid add-on, a new audience, or a pricing change | A new paid add-on |
+| 2 | Changes what an existing product does in a way customers or Sales will notice | A major feature, a new integration, a beta |
+| 3 | Small updates, fixes, and changes nobody needs to talk about | A setting, a bug fix |
+
+**If the tier isn't set,** ask the launch owner, and plan as Tier 1 until they answer; it's easier to scale down than up. Don't reuse a label from another process (such as a build-cycle or QA tier) as the launch tier.
+
+---
+
+## Who fills each seat
+
+The templates name three seats. Fill them once per launch, at the top of the kickoff agreement:
+
+| Seat | Usually | Self-serve or product-led | CS-led | Small team |
+|---|---|---|---|---|
+| Product | The PM for the launch | Same | Same | The one PM |
+| Conversion | Sales leader, plus a top rep | Whoever owns conversion, usually Growth | CS leader, plus a CS manager or agent | The one seller |
+| Marketing | PMM | Same | Same | The one marketer |
+
+Wherever a template says "Sales," "Head of Sales," or "top rep," read it as the Conversion seat. Some launches have two conversion owners (for example, self-serve plus a sales-assist team); name both and say which one signs off.
+
+---
+
+## Joining a launch already underway
+
+If the kickoff has passed, don't skip the skill, and don't try to run all of it. Pick by how far out the launch is:
+
+| Where the launch is | Run | Skip until next launch |
+|---|---|---|
+| More than 4 weeks out | Kickoff agreement (filled in as catch-up, then confirmed), claim source list, decision record | Process map, full sign-off session |
+| 2 to 4 weeks out | Claim source list, "What it doesn't do yet," async sign-off, pre-launch consistency pass | Process map, timeline review setup |
+| Under 2 weeks out | Claim source list for the launch's claims, "What it doesn't do yet," pre-launch consistency pass | Everything else |
+| Already launched | Day-30 consistency check, timeline review (as the baseline) | — |
+
+Then name the next launch where you'll run the full version from the kickoff, and say so in the business case.
+
+---
+
+## If PMM's role isn't agreed yet
+
+You can still prepare. Fill in the kickoff agreement from what's on file, mark PMM's part as "Proposed," and name who decides and when. Don't run the sign-off, write the claim list's approved wording, or announce anything until the role is agreed.
 
 ---
 
@@ -51,7 +104,7 @@ Most of the PM's time is confirming claims, which they'd otherwise answer one as
 
 ## The target
 
-Agree a target launch length with leadership before you start, and measure against it in the [launch timeline review](launch-timeline-review.md). A reasonable first target is cutting a Tier 1 launch by a third, for example from 14 weeks to 9, within three launches. Use the [business case](business-case.md) to show what the time saved is worth.
+Agree a target launch length with leadership before you start, and measure against it in the [launch timeline review](launch-timeline-review.md). **On your first launch with this skill, there's usually no history to set a target from.** Treat that launch as the baseline: track it, then set the target after it. A reasonable first target is cutting a Tier 1 launch by a third, for example from 14 weeks to 9, within three launches. Use the [business case](business-case.md) to show what the time saved is worth.
 
 ## If PMM can't get leaders in a room
 
@@ -113,6 +166,8 @@ PMM runs the process; it doesn't decide alone. If PMM is the only team that has 
 
 ## Self-serve and smaller teams
 
+Fill the seats in "Who fills each seat" above first.
+
 - **Self-serve or product-led:** Swap "Sales" for whoever owns conversion, usually Growth or the in-product team. Test the positioning against signup flows, onboarding emails, and in-app messages instead of deals, and add the pricing page and onboarding emails to the consistency check.
 - **CS-led launches:** Swap "Sales" for the CS leader. Test the story against renewal and onboarding calls.
 - **Small teams (one PM, one seller, one marketer):** Run the kickoff agreement and the sign-off as one 45-minute session. Keep the decision record inside the kickoff agreement instead of a separate log.
@@ -121,6 +176,8 @@ PMM runs the process; it doesn't decide alone. If PMM is the only team that has 
 
 ## Ground rules across every file
 
+- **Set the tier and fill the seats first.**
+- **Use the lists, logs, and meetings you already have** before adding new ones.
 - **Agree before anything is built,** while changes are still cheap.
 - **One story, one claim list.** Every asset pulls from it; nobody writes claims from memory.
 - **Every product claim has a named product owner** who confirmed it's true today.
@@ -129,7 +186,6 @@ PMM runs the process; it doesn't decide alone. If PMM is the only team that has 
 - **Every open question has an owner and a date.**
 - **Fix gaps at the source,** not one asset at a time.
 - **When reps change an asset, ask why first.** Their edits are evidence of what works with buyers.
-- **Use the meetings you already have** before adding new ones.
 
 ---
 
