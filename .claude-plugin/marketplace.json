@@ -1,0 +1,18 @@
+{
+  "name": "pmm-ops-skills",
+  "owner": {
+    "name": "Charlene Strain",
+    "url": "https://www.linkedin.com/in/charlene-strain"
+  },
+  "metadata": {
+    "description": "Product marketing ops skills for AI agents — prove impact, build sales content reps use, and run launches three teams agree on",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pmm-ops-skills",
+      "description": "Three product marketing ops skills plus a shared context file: a PMM impact tracker (targets, movement logs, call language, win/loss dollars, content-to-deal links, shared-metric splits, day 30/60/90 scorecards, quarterly impact story), a rep-ready content loop (rep needs interviews, content audits, 10-second cards, rep voice rewrites, freshness cycles, field feedback, launch-day sales kits, adoption scorecards), and a shared launch agreement (launch process map, kickoff agreement, positioning sign-off, claim source list, decision record, tie-break rule, day-30 consistency check, timeline review, business case)",
+      "source": "./"
+    }
+  ]
+}

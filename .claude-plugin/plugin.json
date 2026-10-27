@@ -1,0 +1,12 @@
+{
+  "name": "pmm-ops-skills",
+  "description": "Product marketing ops skills for AI agents — prove impact, build sales content reps use, and run launches three teams agree on",
+  "version": "1.0.0",
+  "author": {
+    "name": "Charlene Strain"
+  },
+  "homepage": "https://charlenetstrain.github.io/b2b-saas-product-marketing-ops-skills/",
+  "repository": "https://github.com/CharleneTStrain/b2b-saas-product-marketing-ops-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
