@@ -1,6 +1,8 @@
 ---
 name: pmm-impact-tracker
 description: Prove product marketing impact. Set a target before a project starts, log movement weekly, track call language, tag lost deals with real reasons and dollar values, link content to deals, split shared metrics fairly, score launches at days 30, 60, and 90, and write a quarterly one-page readout. Works for sales-led, self-serve, and mixed motions, and for targets PMM sets or inherits. Use whenever a PMM needs to answer "how do you know it's working?" for a launch, messaging refresh, pricing change, battlecard set, research project, or enablement program.
+metadata:
+  version: 1.1.0
 ---
 
 # PMM Impact Tracker
@@ -15,6 +17,10 @@ description: Prove product marketing impact. Set a target before a project start
 If your team has its own rules for sources or claims, use them alongside this skill.
 
 ---
+
+## Before you start
+
+If `.agents/pmm-ops-context.md` exists (or `.claude/pmm-ops-context.md`), read it first. Use the product, buyers, sales motion, leaders, launch tiers, and tools it already has, and only ask for what's missing or specific to this task. If it doesn't exist, go ahead with what you're given, and suggest running **[PMM ops context](../pmm-ops-context/SKILL.md)** once so the next skill doesn't have to ask.
 
 ## The loop
 
@@ -104,4 +110,6 @@ Don't fill in a tool's template when you've skipped it; an empty table looks lik
 
 ## Related skills
 
+- **[PMM ops context](../pmm-ops-context/SKILL.md)** holds the sales motion, the numbers PMM is held to, and where call recordings and win/loss notes live.
+- **[Shared launch agreement](../shared-launch-agreement/SKILL.md)** supplies the main claim and audience from its [kickoff agreement](../shared-launch-agreement/kickoff-agreement.md), which the impact plan uses to set the launch target.
 - **[Rep-ready content loop](../rep-ready-content-loop/SKILL.md)** builds the sales content this skill measures, and uses the content-to-deal linker and win/loss revenue tagger to decide what to build and what to retire. Its [launch-day sales kit](../rep-ready-content-loop/launch-day-sales-kit.md) and [shared adoption scorecard](../rep-ready-content-loop/shared-adoption-scorecard.md) feed this skill's early signs and monthly rollup.

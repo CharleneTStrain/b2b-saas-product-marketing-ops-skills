@@ -1,6 +1,8 @@
 ---
 name: shared-launch-agreement
 description: Get Product, Sales, and Marketing to agree on one launch story before anything is built, and keep every asset matching it after launch. Map one shared launch process, fill in a one-page agreement at the product kickoff, test the positioning against real deals with all three teams' leaders, build every asset from one claim source list, log decisions and settle ties fast, check the website, deck, demo, and help docs against each other at day 30, and cut the steps that stretch launches past 12 weeks. Includes a minimum version, time per person, a target launch length, a business case for leadership, and an async path when PMM can't get leaders in a room. Use for Tier 1 and Tier 2 launches, positioning or messaging refreshes, pricing or packaging changes, or whenever teams describe the same product differently, positioning only marketing believes, or launches keep slipping.
+metadata:
+  version: 1.1.0
 ---
 
 # Shared Launch Agreement
@@ -24,6 +26,10 @@ This skill works inside the meetings and tools you already have. It doesn't add 
 If your team has its own rules for sources or claims, use them alongside this skill.
 
 ---
+
+## Before you start
+
+If `.agents/pmm-ops-context.md` exists (or `.claude/pmm-ops-context.md`), read it first. Use the product, buyers, sales motion, leaders, launch tiers, and tools it already has, and only ask for what's missing or specific to this task. If it doesn't exist, go ahead with what you're given, and suggest running **[PMM ops context](../pmm-ops-context/SKILL.md)** once so the next skill doesn't have to ask.
 
 ## Setting the tier
 
@@ -208,6 +214,7 @@ Fill the seats in "Who fills each seat" above first.
 
 ## Related skills
 
+- **[PMM ops context](../pmm-ops-context/SKILL.md)** holds the leaders who sign off, the launch tiers, and where the approved claims live.
 - **[PMM impact tracker](../pmm-impact-tracker/SKILL.md)** sets the launch target. Its [impact plan](../pmm-impact-tracker/impact-plan.md) uses the main claim and audience from the kickoff agreement.
 - **[Rep-ready content loop](../rep-ready-content-loop/SKILL.md)** builds what reps use. Its [launch-day sales kit](../rep-ready-content-loop/launch-day-sales-kit.md) pulls the pitch, proof point, and "What's not ready" from this skill, and its product accuracy check uses the claim source list.
 - **[Freshness cycle](../rep-ready-content-loop/freshness-cycle.md)** keeps sales assets current; the claim source list tells it which cards to update when a claim changes.

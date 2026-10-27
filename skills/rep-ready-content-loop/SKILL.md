@@ -1,6 +1,8 @@
 ---
 name: rep-ready-content-loop
 description: Build sales content reps actually use. Interview reps on the deal moments costing the most, audit where content lives, build 10-second cards, have a top rep rewrite them in their own words, keep them fresh, run a monthly field feedback loop, link content to deal results, ship one launch-day sales kit per launch, and share an adoption scorecard with sales leadership. Use for battlecards, objection guides, talk tracks, demo scripts, one-pagers, case studies, ROI tools, pricing guides, and launch kits, plus customer success and support enablement content, or whenever reps or CS aren't using what PMM builds.
+metadata:
+  version: 1.1.0
 ---
 
 # Rep-Ready Content Loop
@@ -18,6 +20,10 @@ This skill works inside whatever tools you already have, such as your CRM, call 
 If your team has its own rules for sources or claims, use them alongside this skill.
 
 ---
+
+## Before you start
+
+If `.agents/pmm-ops-context.md` exists (or `.claude/pmm-ops-context.md`), read it first. Use the product, buyers, sales motion, leaders, launch tiers, and tools it already has, and only ask for what's missing or specific to this task. If it doesn't exist, go ahead with what you're given, and suggest running **[PMM ops context](../pmm-ops-context/SKILL.md)** once so the next skill doesn't have to ask.
 
 ## The loop
 
@@ -102,6 +108,8 @@ The rest carries over unchanged: the product accuracy check, the refresh cadence
 
 ## Related skills
 
+- **[PMM ops context](../pmm-ops-context/SKILL.md)** holds how the product is sold, the sales team's shape, where content lives, and the main competitors.
+- **[Shared launch agreement](../shared-launch-agreement/SKILL.md)** supplies the pitch, proof point, and "What's not ready" for the launch-day sales kit, and its [claim source list](../shared-launch-agreement/claim-source-list.md) is what the product accuracy check checks against.
 - **[PMM impact tracker](../pmm-impact-tracker/SKILL.md)** uses the with/without deal comparison and usage data as early signs and evidence.
 - **[Win/loss revenue tagger](../pmm-impact-tracker/win-loss-revenue-tagger.md)** feeds the priorities in the rep needs interview, new "when they say" lines, and proof points.
 - **[Call language tracker](../pmm-impact-tracker/call-language-tracker.md)** checks whether reps use the "You say" lines.
