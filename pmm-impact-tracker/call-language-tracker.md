@@ -70,7 +70,7 @@ Report it as a share of calls, not raw counts, since call volume changes. **Lead
 - **Count buyers separately from reps.** A rep repeating a phrase shows training. A buyer repeating it shows the message is landing.
 - **Compare like with like:** the same call types, segment, and length of time before and after.
 - **Report at the team level only.** Share results with sales managers for coaching. Never share individual rep counts or rank reps.
-- **Only track phrases that are accurate today.** Every phrase about a feature should have passed the product accuracy check in the [rep-ready content loop](../rep-ready-content-loop/SKILL.md). If a release changes what the product does, recheck the phrase list before the next count.
+- **Only track phrases that are accurate today.** Every phrase about a feature should have passed the product accuracy check in the content loop's [10-second card builder](../rep-ready-content-loop/ten-second-card-builder.md). If a release changes what the product does, recheck the phrase list before the next count.
 - **Pull a few real quotes** of buyers using the language for the [quarterly impact story](quarterly-impact-story.md). A single good quote often lands better than the percentage.
 - **If the call tool's search misses variations,** spot-check 10 calls by hand and note the gap.
 

@@ -104,4 +104,4 @@ Don't fill in a tool's template when you've skipped it; an empty table looks lik
 
 ## Related skills
 
-- **[Rep-ready content loop](../rep-ready-content-loop/SKILL.md)** builds the sales content this skill measures, and uses the content-to-deal linker and win/loss revenue tagger to decide what to build and what to retire.
+- **[Rep-ready content loop](../rep-ready-content-loop/SKILL.md)** builds the sales content this skill measures, and uses the content-to-deal linker and win/loss revenue tagger to decide what to build and what to retire. Its [launch-day sales kit](../rep-ready-content-loop/launch-day-sales-kit.md) and [shared adoption scorecard](../rep-ready-content-loop/shared-adoption-scorecard.md) feed this skill's early signs and monthly rollup.

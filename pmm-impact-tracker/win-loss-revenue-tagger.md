@@ -1,6 +1,6 @@
 # Win/Loss Revenue Tagger
 
-Part of the [PMM impact tracker](SKILL.md). Feeds the "Deal lost" entries in the [movement log](movement-log.md), loss-reason early signs in the [impact plan](impact-plan.md), and the "what to fix first" step in the [rep-ready content loop](../rep-ready-content-loop/SKILL.md).
+Part of the [PMM impact tracker](SKILL.md). Feeds the "Deal lost" entries in the [movement log](movement-log.md), loss-reason early signs in the [impact plan](impact-plan.md), and the "pick what to fix first" step in the content loop's [rep needs interview](../rep-ready-content-loop/rep-needs-interview.md).
 
 Tag each lost deal with its real reason and its dollar value, then roll it up into "we lost $X this quarter because of Y." That turns research into a number leadership can act on.
 

@@ -1,6 +1,6 @@
 # Content-to-Deal Linker
 
-Part of the [PMM impact tracker](SKILL.md). Feeds the monthly rollup in the [launch scorecard](launch-scorecard.md), the comparison in the [shared-metric splitter](shared-metric-splitter.md), and the "Is it helping?" check in the [rep-ready content loop](../rep-ready-content-loop/SKILL.md).
+Part of the [PMM impact tracker](SKILL.md). Feeds the monthly rollup in the [launch scorecard](launch-scorecard.md), the comparison in the [shared-metric splitter](shared-metric-splitter.md), and the "Is it helping?" check in the content loop's [freshness cycle](../rep-ready-content-loop/freshness-cycle.md).
 
 Match which assets were sent in which deals, then compare win rates and deal speed for deals that used them against deals that didn't.
 
@@ -73,7 +73,7 @@ Then decide for each asset: keep, fix where it lives, rewrite, or retire.
 
 ## Rules
 
-- **Use at least 15 deals on each side** before reporting a difference. Below that, say "too few deals to tell yet," and still decide keep, fix, or retire using usage and rep feedback from the [rep-ready content loop](../rep-ready-content-loop/SKILL.md). Every asset gets a decision, even without enough deals to compare.
+- **Use at least 15 deals on each side** before reporting a difference. Below that, say "too few deals to tell yet," and still decide keep, fix, or retire using usage and rep feedback from the content loop's [field feedback loop](../rep-ready-content-loop/field-feedback-loop.md). Every asset gets a decision, even without enough deals to compare.
 - **Always say it shows a link, not proof.** Stronger reps and better-fit deals tend to use more content.
 - **To get closer to proof,** check whether the gap holds within the same reps (their deals with and without the asset), or roll the asset out to one team first.
 - **Opened beats sent.** If your tool tracks opens, report both, and weight opens more.
